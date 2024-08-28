@@ -1,0 +1,99 @@
+
+
+/*-- scss:defaults --*/
+$jet: #131516;
+$body-color: $jet !default;
+$link-color: $accent !default;
+$selection-bg: #26351c !default;
+
+
+$presentation-heading-color: $jet !default;
+$presentation-heading-font-weight: lighter;
+$presentation-heading-line-height: 2;
+$presentation-block-margin: 28px;
+$presentation-font-size-root: 32px;
+
+
+.title-slide {
+  text-align: left;
+
+  .title {
+    color: $body-color;
+    font-size: 1.4em;
+    // font-weight: 350;
+    font-weight: lighter;
+  }
+
+
+/* css styles */
+.reveal .slide-menu-button .fa-bars::before {
+background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-hexagon" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.5.134a1 1 0 0 0-1 0l-6 3.577a1 1 0 0 0-.5.866v6.846a1 1 0 0 0 .5.866l6 3.577a1 1 0 0 0 1 0l6-3.577a1 1 0 0 0 .5-.866V4.577a1 1 0 0 0-.5-.866z"/></svg>') !important;
+}
+
+
+
+.reveal h2 {
+    color: #003969;
+    font-size: 80px;
+}
+
+.reveal h3 {
+  color: grey;
+}
+
+.about {
+  padding: 8px 20px;
+  border-radius: 25px;
+  background-color: #2196F3;
+  color: white;
+  margin-top: 8px;
+}
+
+.profile{
+  position: relative;
+  width: 400px;
+  height: 400px;
+  box-shadow: 0 12px 12px 0 rgba(120,20,30,0.5)
+}
+
+.profile:hover{
+  transform: scale(1.5);
+}
+
+.bi {
+
+}
+
+img{
+  box-shadow: 0 12px 12px 0 rgba(120,20,30,0.5)
+}
+
+.highlight-last  {
+  color: grey;
+  .current-fragment {
+    color: #5500ff;
+  }
+}
+
+
+
+.emj{
+  width: 25px;
+  height: 25px;
+}
+
+.fg{
+  color: var(--col, $jet);
+}
+
+.bg {
+  background-color: var(--col, #fff);
+  color: white;
+  padding: 0.1em;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.lord{
+  position: absolute bottom="45%" left="20%"
+}
