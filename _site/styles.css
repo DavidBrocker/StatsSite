@@ -1,0 +1,40 @@
+/* css styles */
+
+h2 {
+    color: #003969;
+}
+
+h3 {
+  color: grey;
+}
+
+.reveal h2 {
+    color: #003969;
+}
+
+.reveal h3 {
+  color: grey;
+}
+
+.about {
+  padding: 8px 20px;
+  border-radius: 25px;
+  background-color: #2196F3;
+  color: white;
+  margin-top: 8px;
+}
+
+.profile{
+  position: relative;
+  width: 400px;
+  height: 400px;
+  box-shadow: 0 12px 12px 0 rgba(120,20,30,0.5)
+}
+
+.profile:hover{
+  transform: scale(1.5);
+}
+
+.bi {
+
+}

@@ -1,0 +1,249 @@
+---
+title: "Lecture"
+---
+
+<details open>
+
+Research in psychology encompasses several fields and sub-fields, however, each area adheres to the same rigorous methodological constraints.
+
+<summary>**Lecture 1: Introduction to Research**</summary>
+
+</details>
+
+[Reading](https://www.crumplab.com/statistics/01-Science_Data.html#a-brief-introduction-to-research-design) \| [Slides](lec1.qmd)
+
+<details>
+
+This lecture explains the concept of operationalization, or how we selectively define certain attributes or concepts. We will also discuss the different scales of measurements; nominal, ordinal, interval, and ratio
+
+<summary>**Lecture 2: Operationalization \| Scales of Measurement**</summary>
+
+[Reading](https://www.crumplab.com/statistics/01-Science_Data.html#introduction-to-psychological-measurement) \| [Slides](lec2.qmd)
+
+</details>
+
+<details>
+
+This lecture introduces the concept of Central Tendency and some statistical tools we use to measure these such as Mean, Median, Mode, and Range.
+
+<summary>**Lecture 3: Measures of Central Tendency**</summary>
+
+[Reading](https://www.crumplab.com/statistics/02-Describing_Data.html#important-ideas-distribution-central-tendency-and-variance) | [Slides](lec3.qmd)
+
+</details>
+
+<details>
+
+In this lecture, we will discuss how 'real' data is often unwieldy and will vary–it is the magnitude of *how* much the data varies that determines our statistical decisions. We will be introduced to the statistical concepts of variance and standard deviation.
+
+<summary>**Lecture 4: Measures of Variability**</summary>
+
+[Reading](https://www.crumplab.com/statistics/02-Describing_Data.html#measures-of-variation-differentness) | [Slides](lec4.qmd)
+
+</details>
+
+<details>
+
+<summary>**Lecture 5: Normal Distributions & Z-scores**</summary>
+
+[Reading](https://www.crumplab.com/statistics/04-SamplesPopulations.html#the-normal-distribution) | [Slides](lec5.qmd)
+
+</details>
+
+<details>
+
+This lecture introduces the concept of standardization using z-scores and probability to determine the likelihood of some data decisions.
+
+<summary>**Lecture 6: Z-scores & Probability**</summary>
+
+[Reading: Z-Scores](https://www.crumplab.com/statistics/04-SamplesPopulations.html#z-scores) \| [Reading: Probability](https://www.crumplab.com/statistics/04-SamplesPopulations.html#how-are-probability-and-statistics-different) | [Slides](lec6.qmd)
+
+</details>
+
+<details>
+
+This lecture introduces SPSS, Excel, and R for statistical analysis and visualization.
+
+<summary>**Lecture 7: Introduction to Statistical Software**</summary>
+
+</details>
+
+<details>
+
+This lecture is reserved for review of Exam 1.
+
+<summary>**Lecture 8: Review for Exam 1**</summary>
+
+</details>
+
+<details>
+
+<summary>**Lecture 9: Statistics in the Real World, Pt. 1**</summary>
+
+</details>
+
+<details>
+
+This lecture discusses the notion of sampling and how we draw portions from the unknown population to test hypotheses and make generalizations (when possible) about larger groups.
+
+<summary>**Lecture 10: Sampling Theory, Hypothesis Testing**</summary>
+
+[Reading](https://www.crumplab.com/statistics/04-SamplesPopulations.html#samples-populations-and-sampling)
+
+</details>
+
+<details>
+
+The statistical concepts of Power and Effect Size will be discussed as well as seeing a crucial step in the research cycle, Meta-Analysis which analyzes the analyses of past papers.
+
+<summary>**Lecture 11: Power & Effect Size \| Introduction to Meta-Analysis**</summary>
+
+[Reading](https://www.crumplab.com/statistics/12-Thinking.html#power)
+
+</details>
+
+<details>
+
+This lecture discusses the how two or more variables change in accordance with the other as well as how we define the strength, and direction of a relationship between measured variables.
+
+<summary>**Lecture 12: Covariance & Correlation**</summary>
+
+[Reading](https://www.crumplab.com/statistics/03-Correlation.html)
+
+</details>
+
+<details>
+
+This lecture discusses the statistical framework of Linear Regression which can be used to create predictive models and inferences about what *might* occur given a certain set of information or variables.
+
+<summary>**Lecture 13: Linear Regression**</summary>
+
+[Reading](https://www.crumplab.com/statistics/03-Correlation.html#regression-a-mini-intro)
+
+</details>
+
+<details open>
+
+This lecture explains how more than one variable can contribute to the strength of a relationship as well as the predictive value. Other *types* of variables can also be used to predict states.
+
+<summary>**Lecture 14: Interactions & Categorical Variables in Linear Regression**</summary>
+
+**Need Reading for this One!**
+
+</details>
+
+<details>
+
+<summary>**Lecture 15: Statistics in the Real World, Pt 2**</summary>
+
+</details>
+
+<details>
+
+This lecture is reserved for a review of Exam 2
+
+<summary>**Lecture 16: Review for Exam 2**</summary>
+
+</details>
+
+<details>
+
+The independent samples t-test is used to test for differences between two samples that come from independent sources.
+
+<summary>**Lecture 17: Independent Samples t-Tests**</summary>
+
+[Reading](https://www.crumplab.com/statistics/06-ttests.html#independent-samples-t-test-the-return-of-the-t-test)
+
+</details>
+
+<details>
+
+The Between Subjects ANOVA is used when an Independent Variable has more than three levels and each level is composed of unique respondents.
+
+<summary>**Lecture 18: Between Subjects ANOVA**</summary>
+
+[Reading](https://www.crumplab.com/statistics/07-ANOVA.html)
+
+</details>
+
+<details>
+
+When interpreting the results of an ANOVA, you can use comparisons to test how the effects differ between each of the 3+ conditions.
+
+<summary>**Lecture 19: Comparisons**</summary>
+
+</details>
+
+<details>
+
+A Factorial ANOVA has 2 or more Independent Variables which leads you with possible Main Effects for each Independent Variable as well as an interaction effect *between* each independent Variable.
+
+<summary>**Lecture 20: Factorial ANOVA**</summary>
+
+[Reading](https://www.crumplab.com/statistics/09-FactorialANOVA.html)
+
+</details>
+
+<details>
+
+Factorial ANOVA's have the possibility for an interaction where the effect of a manipulation is *especially* powerful in the presence of a certain level of a secondary independent variable *or* the effect *depends* on a certain level of a secondary independent variable.
+
+<summary>**Lecture 21: Interactions in ANOVA**</summary>
+
+[Reading](https://www.crumplab.com/statistics/10-MixedANOVA.html#interpreting-main-effects-and-interactions)
+
+</details>
+
+<details>
+
+A Within-Subjects ANOVA uses the same participants in each level of an independent variable.
+
+<summary>**Lecture 22: Within Subjects ANOVA**</summary>
+
+[Reading](https://www.crumplab.com/statistics/08-RMANOVA.html)
+
+</details>
+
+<details>
+
+Mixed Method ANOVA's can have a variety of Between and Within Factors that contribute to the research design. Some respondents are exposed to one type of level within an independent variable, however, *all* participants are exposed to one or more conditions of a secondary independent variable.
+
+<summary>**Lecture 23: Mixed Methods ANOVA**</summary>
+
+[Reading](https://www.crumplab.com/statistics/10-MixedANOVA.html#mixed-designs)
+
+</details>
+
+<details>
+
+Reliability and Validity are statistical concepts that establish criteria for independent and dependent variables as well as classifications for internal strength of a certain measure or test.
+
+<summary>**Lecture 24: Reliability & Validity**</summary>
+
+[Reading](https://www.crumplab.com/statistics/01-Science_Data.html#assessing-the-reliability-of-a-measurement)
+
+</details>
+
+<details>
+
+<summary>**Lecture 25: Statistics in the Real World, Pt 3**</summary>
+
+</details>
+
+<details open>
+
+APA formatting in the Results section of an academic paper will be discussed as well as the purpose and structure of the section.
+
+<summary>**Lecture 26: APA format & Results Section**</summary>
+
+**Need something for this**
+
+</details>
+
+<details>
+
+This lecture will be reserved for review of Exam 3.
+
+<summary>**Lecture 27: Review for Exam 3**</summary>
+
+</details>

@@ -1,0 +1,1220 @@
+[
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Prerequisites/Corequisites: PSY 101 and MTH 110\nMeeting Days and Times:\nLecture: M/W 9:25 AM – 10:40 AM\nLaboratory: Monday 10:50 AM - 11:40 AM\nMeeting Room: Whitman Hall B26\nInstructor: Dave Brocker, M.A.\nEmail: brockeda@farmingdale.edu\nPhone: (934) 420 5678\nOffice: Knapp Hall 15\n\n\n\nThis course will introduce students to the basic descriptive and inferential statistics used in the behavioral and social sciences. Topics will include the organization of data, measures of central tendency and variability, correlation and regression, hypothesis testing, and various parametric and nonparametric tests of significance including t-tests and ANOVA. Students will focus on the interconnections between theory, statistical techniques, and research methods in order to identify the appropriate statistical tests to analyze data and reach objective conclusions regarding research questions in the social sciences. The course will provide practice in using statistical software for data summarization, presentation, and analysis.\n\n\n\n\nAs a result of this course, students will be able to understand statistical terms and research reports in the social sciences, use statistical techniques to analyze experimental data for hypothesis testing, and use statistical software to aid in the presentation and analysis of quantitative data.\nTo accomplish these objectives, students will be able to:\n\nDescribe the four measurement scales (nominal, ordinal, interval, ratio).\nConstruct frequency distributions and represent them graphically.\nIdentify and calculate measures of central tendency including mean, median, and mode.\nDefine and calculate measures of variability including variance and standard deviation.\nCalculate and apply the use of z-scores.\nDescribe the normal curve and use the curve to solve various problems including probability.\nAppraise the difference between populations and samples.\nApply the concepts of sampling theory and sampling distributions to statistical testing.\nExplain and apply the basic concepts of hypothesis testing including the null, significance testing, and errors.\nCalculate and appraise correlation coefficients.\nObtain and graph regression equations and use results to make predictions.\nTest for significant differences between means using t-tests.\nCalculate and interpret analysis of variance and follow up comparisons.\nDetermine appropriate hypothesis test based on research questions and level of data.\nEvaluate how appropriate measures are by measuring reliability and validity.\nPerform statistical techniques by hand using formulas and with statistical software.\nInterpret the results of inferential statistical techniques.\n\n\n\n\n\nCourse Materials\nThere is no required text for this course.\nSelected readings will be made available on Brightspace.\nCourse Format\nThis course has both lecture and laboratory components. During lecture on Monday and Wednesday, we will discuss statistical theory and prepare for the corresponding laboratory by examining computational formulas. We will also work through practice examples to prepare you for the recitation.\nOn Monday afternoons we will meet for recitation. I will guide you through the first half of the lab for that day, and students will be given the remainder of the recitation period to complete the second portion of the lab. Students will complete the labs using statistical software accessed on the computers in our classroom.\n\n\n\nExams (36%) – 12 points each\nThere will be three non-cumulative exams. Each of the exams will contain two parts: conceptional and computational. The conceptual part of the exam will include 12 multiple choice questions pertaining to theory we covered in lecture. Each multiple choice question will be worth 0.5 points for a total of 6 points. The computational part of the exam will contain 2 to 3 questions with various parts, each worth a different point value. The computational portion will require you to apply the concepts we learned in lecture and the skills we learn in recitation.\nLabs (54%) – 4.5 points each\nIn recitation each week, students will complete a 5-point lab assignment that corresponds to the lectures given the week before. Each lab will contain two parts. We will complete the first part together as a class. Working along with the class to complete the first part is worth 1.5 points. The second part is to be completed by students on their own or in small groups and is worth the remaining 3 points.\nAttendance and Participation (10%)\nThis course requires attendance and active participation, as the material increases in difficulty over the course of the semester. Each student is allowed 2 absences without penalty, so long as missed work is made up in a timely manner. Students who are absence more than twice, should meet with me to discuss how they will keep up with the course material.\n\n\n\nYour final grade will be based on the following grading scale provided by the college. PLEASE NOTE: To be fair to everyone, these are exact cutoffs. Under no circumstances can I round up the grade of any student. ALSO NOTE: Your grade in Brightspace may not accurately reflect your grade in this course, as some grade-related material will not be updated there, such as participation. For an estimation of your grade at any point during the semester, please email me. I’d be happy to tell you your current estimated grade.\n\n\n\n\n\n\n\n\n\nMinimum Grade Percentage Equivalent\nLetter Grade\nGPA Equivlalent\nInterpretation\n\n\n\n\n93.0\nA\n4.00\nExcellent\n\n\n90.0\nA-\n3.67\n\n\n\n87.0\nB+\n3.33\n\n\n\n83.0\nB\n3.00\nGood\n\n\n80.0\nB-\n2.67\n\n\n\n77.0\nC+\n2.33\n\n\n\n73.0\nC\n2.00\nSatisfactory\n\n\n70.0\nC-\n1.67\n\n\n\n67.0\nD+\n1.33\n\n\n\n60.0\nD\n1.00\nMinimum Passing\n\n\n\nWeek by week class outline:\nNOTE: I may modify the syllabus. If I do, I will post the newest version on Brightspace.\n\n\n\n\n\n\n\n\n\n\nDate\nTopic\nReading\nLearning Objective\nLab\n\n\n\n\nMon 8/26\nSyllabus\nIntroduction to Research\n\n\nUnderstand the course requirements.\nAppraise the difference between populations and samples.\n\nLab 1: Research design\n\n\nWed 8/28\nOperationalization\nScales of Measurement\nCohen, 2013\nCh. 1\n\nDescribe the four measurement scales (nominal, ordinal, interval, ratio).\n\n\n\n\nMon 9/2\n\n\nNo Class\nGovernance Meeting\n\n\n\nWed 9/4\nMeasures of Central Tendency\nKenny, 1987\nCh. 3\n\nIdentify and calculate measures of central tendency including mean, median, and mode.\n\n\n\n\nMon 9/9\nMeasures of Variability\nCohen, 2013\nCh. 3\n\nDefine and calculate measures of variability including variance and standard deviation.\nPerform statistical techniques by hand using formulas and with statistical software.\n\nLab 2: Operationa lization\n\n\nWed 9/11\nNormal Di stributions & Z-scores\nKenny, 1987,\nCh. 10\n\nDescribe the normal curve and use the curve to solve various problems including probability.\nCalculate and apply the use of z-scores.\n\n\n\n\nMon 9/16\nZ-scores & Probability\nCohen, 2013\nCh. 4\n\nCalculate and apply the use of z-scores.\n\nLab 3: Standard Deviations & Z-scores\n\n\nWed 9/18\nI ntroduction to SPSS\n\n\nIdentify and calculate measures of central tendency including mean, median, and mode.\nDefine and calculate measures of variability including variance and standard deviation.\nConstruct frequency distributions and represent them graphically.\nPerform statistical techniques by hand using formulas and with statistical software.\n\n\n\n\nMon 9/23\nReview for Exam 1\nReview notes from readings and lectures\n\nReview concepts examined\n\nLab 4: Descriptive Statistics\n\n\nWed 9/25\nStatistics in the Real World, Pt 1\nLytle, Apriceno, & Kowal, 2020\n\nDetermine appropriate hypothesis test based on research questions and level of data.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon 9/30\nSampling Theory\nHypothesis Testing\nStagnor, 2020\nCh. 8\n\nAppraise the difference between populations and samples.\nApply the concepts of sampling theory and sampling distributions to statistical testing.\nExplain and apply the basic concepts of hypothesis testing including the null, significance testing, and errors.\nDescribe the normal curve and use the curve to solve various problems including probability.\n\nExam 1\n\n\nWed 10/2\nPower & Effect Size\nIntroduction to Me ta-Analysis\nCohen, 2013\nCh. 8\n\nExplain and apply the basic concepts of hypothesis testing including the null, significance testing, and errors.\nDetermine appropriate hypothesis test based on research questions and level of data.\nDescribe the normal curve and use the curve to solve various problems including probability.\n\n\n\n\nMon 10/7\nCovariance & Correlation\nCohen, 2013\nCh. 9\n\nCalculate and appraise correlation coefficients.\nPerform statistical techniques by hand using formulas and with statistical software.\n\nLab 5: Hypothesis Testing\n\n\nWed 10/9\nLinear Regression\nCohen, 2013\nCh. 10\n\nObtain and graph regression equations and use results to make predictions.\nPerform statistical techniques by hand using formulas and with statistical software.\n\n\n\n\nMon 10/14\nInteractions & Categorical Variables in Linear Regression\nCohen, 2013\nCh. 10\n\nObtain and graph regression equations and use results to make predictions.\nPerform statistical techniques by hand using formulas and with statistical software.\n\nLab 6: Cor relation\n\n\nWed 10/16\nStatistics in the Real World, Pt 2\nLytle & Ap riceno, 2022\n\nDetermine appropriate hypothesis test based on research questions and level of data.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon 10/21\nReview for Exam 2\nReview notes from readings and lectures\n\nReview concepts examined\n\nLab 7: Linear Regression\n\n\nWed 10/23\nIndependent Samples t-Tests\nCohen, 2013\nCh. 7\n\nTest for significant differences between means using t-tests.\n\nExam 2\n\n\nMon 10/28\nBetween Subjects ANOVA\nKenny, 1987\nCh. 14\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\nLab 8: ANOVA\n\n\nWed 10/30\nComparisons\nCohen, 2013\nCh. 13\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon\n11/4\nFactorial ANOVA\nKenny, 1987\nCh. 15\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\nLab 9: Follow up Comparisons in ANOVA\n\n\nWed 11/6\nInteractions in ANOVA\n\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\nConstruct frequency distributions and represent them graphically.\n\n\n\n\nMon 11/11\nWithin Subjects ANOVA\nCohen, 2013\nCh. 15\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\nLab 10: Within-subjects ANOVA\n\n\nWed 11/13\nMixed Methods ANOVA\n\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon 11/18\nReliability & Validity\nStagnor, 2020\nCh. 5\n\nEvaluate how appropriate measures are by measuring reliability and validity.\n\nLab 11:\nReliability & Validity\n\n\nWed 11/20\nStatistics in the Real World, Pt 3\nAp riceno, Levy, & London, 2018\n\nDetermine appropriate hypothesis test based on research questions and level of data.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon 11/25\nAPA format & Results Section\nStagnor, 2020 Appendix A\n\nDetermine appropriate hypothesis test based on research questions and level of data.\nInterpret the results of inferential statistical techniques.\nPerform statistical techniques by hand using formulas and with statistical software.\n\nLab 12:\nResults Section\n\n\nWed 11/27\nNo Class - Thanksgiving\n\n\n\n\n\nMon 11/30\nReview for Exam 3\nReview notes from readings and lectures\n\nReview concepts examined\n\n\n\n\nWed 12/2\nExam 3\n\n\n\n\n\nMon 12/4\n\n\n\n\n\n\n\nCancellation of Classes:\nWeather and other campus-wide cancellations will be listed on the home page, Facebook and Twitter and you can also sign up for RAVE and SUNY Alert. Go to GETRAVE and use your Farmingdale user ID and password to enter the site. For SUNY-Alert, please visit the University Police web page at University Police. If I need to cancel class for any other reason, I will post an announcement on Brightspace and email students a copy of the announcement.\nElectronic Devices Policy:\nTechnology use in the classroom is intended to enhance the learning environment for all students. Accordingly, use of laptops, notebook computers, and tablets is allowed in and during class so long as they are being used to take notes and they are put in silent mode so that notifications do not sound during class.\nCellphones should be put in silent mode and kept out of sight, unless there are extenuating circumstances (for example, you have a child who is being cared by someone while you are in class and you must be reachable). If you feel you need to have your cell phone out during class time for a legitimate reason, please email me.\nClassroom Recording:\nThe recording of classroom instruction is for the sole purpose of supporting the course learning objectives and can only be accessible to FSC faculty, staff, and students. Capturing, copying, and or sharing of recordings is strictly prohibited. Students not adhering to campus policies would be in violation of the student code of conduct.\nAttendance Policy:\nThis course requires attendance and active participation, as the material increases in difficulty over the course of the semester. Each student is allowed 2 absences without penalty, so long as missed work is made up in a timely manner. Students who are absence more than twice, should meet with me to discuss how they will keep up with the course material.\nReligious Absences:\nIf you are unable to attend class on certain days due to religious beliefs, please consult with your instructor well in advance of the absence so that appropriate accommodation can be made. Reasonable accommodation in course work may be unavailable if a request results in a significant number of absences or substantially impacts class participation. Please note a significant number of absences is viewed as greater than 5% of class time.\nUse of Email:\nIt is College policy that instructors and students use the Farmingdale email system or the Brightspace email system to contact one another.\nCopyright Statement:\nCourse material accessed from Brightspace or the Farmingdale website is for the exclusive use of students who are currently enrolled in the course. Content from these systems cannot be reused or distributed without written permission of the instructor and/or the copyright holder. Duplication of materials protected by copyright, without permission of the copyright holder, is a violation of the Federal copyright law, as well as a violation of SUNY copyright policy.\nDisability Services Center:\nIf you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and the Disability Services Center, Sinclair Hall, Room 185, or call 934-420-2411, or 934-420–2607 as soon as possible this semester.\nCampus Mental Health Services\nOccasionally, students may experience problems related to excessive stress, anxiety, depression, and other mental health issues. All registered students at Farmingdale State College have access to Campus Mental Health Services, located in Sinclair Hall. There is no fee for services.\nCMHS provides both short and long-term treatment for anxiety, mood disorders, acute and chronic stress disorders, and other emotional or behavioral problems that may adversely impact students’ functioning. Additionally, CMHS is available 24/7 for students who may be in crisis. You are encouraged to contact CMHS at (934) 420-2006 or cmhs@farmingdale.edu if you are having difficulties in the above areas. We are also available for consultation to help you determine whether or not services may be helpful.\nAcademic Integrity Policy\nBecause intellectual honesty is a cornerstone of all academic and scholarly work, each member of the Farmingdale State College campus community is expected to maintain academic integrity. Farmingdale State College has developed regulations concerning academic dishonesty and integrity to protect all students and to maintain an ethical academic environment. For more information, click the updated link below: Policies\nIt is important for you to understand the concept of plagiarism. Plagiarism is intentionally representing the words,images or ideas of another as one’s own in any academic exercise. This includes words, images or ideas in either print or electronic format.\nStudents who plagiarize will automatically fail the plagiarized assignment. This includes use of AI to complete writing assignments. All previously submitted assignments will then be re-assessed for plagiarism, and if plagiarism is found in any prior assignments, the grades of those assignments will also be changed to an F. I will also report any student who plagiarizes to the Dean of Students.\nDiversity Equity & Inclusion:\nFarmingdale State College embraces the belief that our intellectual community is enriched and enhanced by the opportunity to learn from and appreciate diversity. We strive to have a curriculum and learning environment which respects, honors and incorporates the contributions of a diverse and inclusive teaching and learning community. Your person (identity) and voice are welcomed in this classroom environment because of your value as a member of FSC’s inclusive and diverse culture. All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class.\nStudent Code of Conduct\nThe President of the College and the Vice President for Student Affairs recognize the rights of designees including University Police, to enforce all regulations, policies, license agreements, laws and codes on campus. If any individual allegedly violates the laws, Student Code of Conduct or campus policies, a President’s designee will institute proceedings against the offender (s). For more information on the student code of conduct, see the Code of Conduct section in the current Student Handbook which can be found at this link, Student Handbook\nUniversity Police\n934-420-2111"
+  },
+  {
+    "objectID": "syllabus.html#catalog-course-description",
+    "href": "syllabus.html#catalog-course-description",
+    "title": "Syllabus",
+    "section": "",
+    "text": "This course will introduce students to the basic descriptive and inferential statistics used in the behavioral and social sciences. Topics will include the organization of data, measures of central tendency and variability, correlation and regression, hypothesis testing, and various parametric and nonparametric tests of significance including t-tests and ANOVA. Students will focus on the interconnections between theory, statistical techniques, and research methods in order to identify the appropriate statistical tests to analyze data and reach objective conclusions regarding research questions in the social sciences. The course will provide practice in using statistical software for data summarization, presentation, and analysis."
+  },
+  {
+    "objectID": "syllabus.html#course-learning-outcomes",
+    "href": "syllabus.html#course-learning-outcomes",
+    "title": "Syllabus",
+    "section": "",
+    "text": "As a result of this course, students will be able to understand statistical terms and research reports in the social sciences, use statistical techniques to analyze experimental data for hypothesis testing, and use statistical software to aid in the presentation and analysis of quantitative data.\nTo accomplish these objectives, students will be able to:\n\nDescribe the four measurement scales (nominal, ordinal, interval, ratio).\nConstruct frequency distributions and represent them graphically.\nIdentify and calculate measures of central tendency including mean, median, and mode.\nDefine and calculate measures of variability including variance and standard deviation.\nCalculate and apply the use of z-scores.\nDescribe the normal curve and use the curve to solve various problems including probability.\nAppraise the difference between populations and samples.\nApply the concepts of sampling theory and sampling distributions to statistical testing.\nExplain and apply the basic concepts of hypothesis testing including the null, significance testing, and errors.\nCalculate and appraise correlation coefficients.\nObtain and graph regression equations and use results to make predictions.\nTest for significant differences between means using t-tests.\nCalculate and interpret analysis of variance and follow up comparisons.\nDetermine appropriate hypothesis test based on research questions and level of data.\nEvaluate how appropriate measures are by measuring reliability and validity.\nPerform statistical techniques by hand using formulas and with statistical software.\nInterpret the results of inferential statistical techniques."
+  },
+  {
+    "objectID": "syllabus.html#general-course-requirements",
+    "href": "syllabus.html#general-course-requirements",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Course Materials\nThere is no required text for this course.\nSelected readings will be made available on Brightspace.\nCourse Format\nThis course has both lecture and laboratory components. During lecture on Monday and Wednesday, we will discuss statistical theory and prepare for the corresponding laboratory by examining computational formulas. We will also work through practice examples to prepare you for the recitation.\nOn Monday afternoons we will meet for recitation. I will guide you through the first half of the lab for that day, and students will be given the remainder of the recitation period to complete the second portion of the lab. Students will complete the labs using statistical software accessed on the computers in our classroom."
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Exams (36%) – 12 points each\nThere will be three non-cumulative exams. Each of the exams will contain two parts: conceptional and computational. The conceptual part of the exam will include 12 multiple choice questions pertaining to theory we covered in lecture. Each multiple choice question will be worth 0.5 points for a total of 6 points. The computational part of the exam will contain 2 to 3 questions with various parts, each worth a different point value. The computational portion will require you to apply the concepts we learned in lecture and the skills we learn in recitation.\nLabs (54%) – 4.5 points each\nIn recitation each week, students will complete a 5-point lab assignment that corresponds to the lectures given the week before. Each lab will contain two parts. We will complete the first part together as a class. Working along with the class to complete the first part is worth 1.5 points. The second part is to be completed by students on their own or in small groups and is worth the remaining 3 points.\nAttendance and Participation (10%)\nThis course requires attendance and active participation, as the material increases in difficulty over the course of the semester. Each student is allowed 2 absences without penalty, so long as missed work is made up in a timely manner. Students who are absence more than twice, should meet with me to discuss how they will keep up with the course material."
+  },
+  {
+    "objectID": "syllabus.html#farmingdale-grading-system",
+    "href": "syllabus.html#farmingdale-grading-system",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Your final grade will be based on the following grading scale provided by the college. PLEASE NOTE: To be fair to everyone, these are exact cutoffs. Under no circumstances can I round up the grade of any student. ALSO NOTE: Your grade in Brightspace may not accurately reflect your grade in this course, as some grade-related material will not be updated there, such as participation. For an estimation of your grade at any point during the semester, please email me. I’d be happy to tell you your current estimated grade.\n\n\n\n\n\n\n\n\n\nMinimum Grade Percentage Equivalent\nLetter Grade\nGPA Equivlalent\nInterpretation\n\n\n\n\n93.0\nA\n4.00\nExcellent\n\n\n90.0\nA-\n3.67\n\n\n\n87.0\nB+\n3.33\n\n\n\n83.0\nB\n3.00\nGood\n\n\n80.0\nB-\n2.67\n\n\n\n77.0\nC+\n2.33\n\n\n\n73.0\nC\n2.00\nSatisfactory\n\n\n70.0\nC-\n1.67\n\n\n\n67.0\nD+\n1.33\n\n\n\n60.0\nD\n1.00\nMinimum Passing\n\n\n\nWeek by week class outline:\nNOTE: I may modify the syllabus. If I do, I will post the newest version on Brightspace.\n\n\n\n\n\n\n\n\n\n\nDate\nTopic\nReading\nLearning Objective\nLab\n\n\n\n\nMon 8/26\nSyllabus\nIntroduction to Research\n\n\nUnderstand the course requirements.\nAppraise the difference between populations and samples.\n\nLab 1: Research design\n\n\nWed 8/28\nOperationalization\nScales of Measurement\nCohen, 2013\nCh. 1\n\nDescribe the four measurement scales (nominal, ordinal, interval, ratio).\n\n\n\n\nMon 9/2\n\n\nNo Class\nGovernance Meeting\n\n\n\nWed 9/4\nMeasures of Central Tendency\nKenny, 1987\nCh. 3\n\nIdentify and calculate measures of central tendency including mean, median, and mode.\n\n\n\n\nMon 9/9\nMeasures of Variability\nCohen, 2013\nCh. 3\n\nDefine and calculate measures of variability including variance and standard deviation.\nPerform statistical techniques by hand using formulas and with statistical software.\n\nLab 2: Operationa lization\n\n\nWed 9/11\nNormal Di stributions & Z-scores\nKenny, 1987,\nCh. 10\n\nDescribe the normal curve and use the curve to solve various problems including probability.\nCalculate and apply the use of z-scores.\n\n\n\n\nMon 9/16\nZ-scores & Probability\nCohen, 2013\nCh. 4\n\nCalculate and apply the use of z-scores.\n\nLab 3: Standard Deviations & Z-scores\n\n\nWed 9/18\nI ntroduction to SPSS\n\n\nIdentify and calculate measures of central tendency including mean, median, and mode.\nDefine and calculate measures of variability including variance and standard deviation.\nConstruct frequency distributions and represent them graphically.\nPerform statistical techniques by hand using formulas and with statistical software.\n\n\n\n\nMon 9/23\nReview for Exam 1\nReview notes from readings and lectures\n\nReview concepts examined\n\nLab 4: Descriptive Statistics\n\n\nWed 9/25\nStatistics in the Real World, Pt 1\nLytle, Apriceno, & Kowal, 2020\n\nDetermine appropriate hypothesis test based on research questions and level of data.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon 9/30\nSampling Theory\nHypothesis Testing\nStagnor, 2020\nCh. 8\n\nAppraise the difference between populations and samples.\nApply the concepts of sampling theory and sampling distributions to statistical testing.\nExplain and apply the basic concepts of hypothesis testing including the null, significance testing, and errors.\nDescribe the normal curve and use the curve to solve various problems including probability.\n\nExam 1\n\n\nWed 10/2\nPower & Effect Size\nIntroduction to Me ta-Analysis\nCohen, 2013\nCh. 8\n\nExplain and apply the basic concepts of hypothesis testing including the null, significance testing, and errors.\nDetermine appropriate hypothesis test based on research questions and level of data.\nDescribe the normal curve and use the curve to solve various problems including probability.\n\n\n\n\nMon 10/7\nCovariance & Correlation\nCohen, 2013\nCh. 9\n\nCalculate and appraise correlation coefficients.\nPerform statistical techniques by hand using formulas and with statistical software.\n\nLab 5: Hypothesis Testing\n\n\nWed 10/9\nLinear Regression\nCohen, 2013\nCh. 10\n\nObtain and graph regression equations and use results to make predictions.\nPerform statistical techniques by hand using formulas and with statistical software.\n\n\n\n\nMon 10/14\nInteractions & Categorical Variables in Linear Regression\nCohen, 2013\nCh. 10\n\nObtain and graph regression equations and use results to make predictions.\nPerform statistical techniques by hand using formulas and with statistical software.\n\nLab 6: Cor relation\n\n\nWed 10/16\nStatistics in the Real World, Pt 2\nLytle & Ap riceno, 2022\n\nDetermine appropriate hypothesis test based on research questions and level of data.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon 10/21\nReview for Exam 2\nReview notes from readings and lectures\n\nReview concepts examined\n\nLab 7: Linear Regression\n\n\nWed 10/23\nIndependent Samples t-Tests\nCohen, 2013\nCh. 7\n\nTest for significant differences between means using t-tests.\n\nExam 2\n\n\nMon 10/28\nBetween Subjects ANOVA\nKenny, 1987\nCh. 14\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\nLab 8: ANOVA\n\n\nWed 10/30\nComparisons\nCohen, 2013\nCh. 13\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon\n11/4\nFactorial ANOVA\nKenny, 1987\nCh. 15\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\nLab 9: Follow up Comparisons in ANOVA\n\n\nWed 11/6\nInteractions in ANOVA\n\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\nConstruct frequency distributions and represent them graphically.\n\n\n\n\nMon 11/11\nWithin Subjects ANOVA\nCohen, 2013\nCh. 15\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\nLab 10: Within-subjects ANOVA\n\n\nWed 11/13\nMixed Methods ANOVA\n\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon 11/18\nReliability & Validity\nStagnor, 2020\nCh. 5\n\nEvaluate how appropriate measures are by measuring reliability and validity.\n\nLab 11:\nReliability & Validity\n\n\nWed 11/20\nStatistics in the Real World, Pt 3\nAp riceno, Levy, & London, 2018\n\nDetermine appropriate hypothesis test based on research questions and level of data.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon 11/25\nAPA format & Results Section\nStagnor, 2020 Appendix A\n\nDetermine appropriate hypothesis test based on research questions and level of data.\nInterpret the results of inferential statistical techniques.\nPerform statistical techniques by hand using formulas and with statistical software.\n\nLab 12:\nResults Section\n\n\nWed 11/27\nNo Class - Thanksgiving\n\n\n\n\n\nMon 11/30\nReview for Exam 3\nReview notes from readings and lectures\n\nReview concepts examined\n\n\n\n\nWed 12/2\nExam 3\n\n\n\n\n\nMon 12/4\n\n\n\n\n\n\n\nCancellation of Classes:\nWeather and other campus-wide cancellations will be listed on the home page, Facebook and Twitter and you can also sign up for RAVE and SUNY Alert. Go to GETRAVE and use your Farmingdale user ID and password to enter the site. For SUNY-Alert, please visit the University Police web page at University Police. If I need to cancel class for any other reason, I will post an announcement on Brightspace and email students a copy of the announcement.\nElectronic Devices Policy:\nTechnology use in the classroom is intended to enhance the learning environment for all students. Accordingly, use of laptops, notebook computers, and tablets is allowed in and during class so long as they are being used to take notes and they are put in silent mode so that notifications do not sound during class.\nCellphones should be put in silent mode and kept out of sight, unless there are extenuating circumstances (for example, you have a child who is being cared by someone while you are in class and you must be reachable). If you feel you need to have your cell phone out during class time for a legitimate reason, please email me.\nClassroom Recording:\nThe recording of classroom instruction is for the sole purpose of supporting the course learning objectives and can only be accessible to FSC faculty, staff, and students. Capturing, copying, and or sharing of recordings is strictly prohibited. Students not adhering to campus policies would be in violation of the student code of conduct.\nAttendance Policy:\nThis course requires attendance and active participation, as the material increases in difficulty over the course of the semester. Each student is allowed 2 absences without penalty, so long as missed work is made up in a timely manner. Students who are absence more than twice, should meet with me to discuss how they will keep up with the course material.\nReligious Absences:\nIf you are unable to attend class on certain days due to religious beliefs, please consult with your instructor well in advance of the absence so that appropriate accommodation can be made. Reasonable accommodation in course work may be unavailable if a request results in a significant number of absences or substantially impacts class participation. Please note a significant number of absences is viewed as greater than 5% of class time.\nUse of Email:\nIt is College policy that instructors and students use the Farmingdale email system or the Brightspace email system to contact one another.\nCopyright Statement:\nCourse material accessed from Brightspace or the Farmingdale website is for the exclusive use of students who are currently enrolled in the course. Content from these systems cannot be reused or distributed without written permission of the instructor and/or the copyright holder. Duplication of materials protected by copyright, without permission of the copyright holder, is a violation of the Federal copyright law, as well as a violation of SUNY copyright policy.\nDisability Services Center:\nIf you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and the Disability Services Center, Sinclair Hall, Room 185, or call 934-420-2411, or 934-420–2607 as soon as possible this semester.\nCampus Mental Health Services\nOccasionally, students may experience problems related to excessive stress, anxiety, depression, and other mental health issues. All registered students at Farmingdale State College have access to Campus Mental Health Services, located in Sinclair Hall. There is no fee for services.\nCMHS provides both short and long-term treatment for anxiety, mood disorders, acute and chronic stress disorders, and other emotional or behavioral problems that may adversely impact students’ functioning. Additionally, CMHS is available 24/7 for students who may be in crisis. You are encouraged to contact CMHS at (934) 420-2006 or cmhs@farmingdale.edu if you are having difficulties in the above areas. We are also available for consultation to help you determine whether or not services may be helpful.\nAcademic Integrity Policy\nBecause intellectual honesty is a cornerstone of all academic and scholarly work, each member of the Farmingdale State College campus community is expected to maintain academic integrity. Farmingdale State College has developed regulations concerning academic dishonesty and integrity to protect all students and to maintain an ethical academic environment. For more information, click the updated link below: Policies\nIt is important for you to understand the concept of plagiarism. Plagiarism is intentionally representing the words,images or ideas of another as one’s own in any academic exercise. This includes words, images or ideas in either print or electronic format.\nStudents who plagiarize will automatically fail the plagiarized assignment. This includes use of AI to complete writing assignments. All previously submitted assignments will then be re-assessed for plagiarism, and if plagiarism is found in any prior assignments, the grades of those assignments will also be changed to an F. I will also report any student who plagiarizes to the Dean of Students.\nDiversity Equity & Inclusion:\nFarmingdale State College embraces the belief that our intellectual community is enriched and enhanced by the opportunity to learn from and appreciate diversity. We strive to have a curriculum and learning environment which respects, honors and incorporates the contributions of a diverse and inclusive teaching and learning community. Your person (identity) and voice are welcomed in this classroom environment because of your value as a member of FSC’s inclusive and diverse culture. All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class.\nStudent Code of Conduct\nThe President of the College and the Vice President for Student Affairs recognize the rights of designees including University Police, to enforce all regulations, policies, license agreements, laws and codes on campus. If any individual allegedly violates the laws, Student Code of Conduct or campus policies, a President’s designee will institute proceedings against the offender (s). For more information on the student code of conduct, see the Code of Conduct section in the current Student Handbook which can be found at this link, Student Handbook\nUniversity Police\n934-420-2111"
+  },
+  {
+    "objectID": "lec4.html#descriptive-statistics",
+    "href": "lec4.html#descriptive-statistics",
+    "title": "Dispersion",
+    "section": "Descriptive Statistics",
+    "text": "Descriptive Statistics\nX = refers to the value for 1 person (1 datapoint) in the sample\n\\(\\bar{x}\\) = refers to the mean or average value of X in the sample\n\\(\\sum(x)\\) = refers to the sum of all x values (sum of all the datapoints)\n\\(x^2\\) = refers to the squared value of x (x multiplied by x)"
+  },
+  {
+    "objectID": "lec4.html#descriptive-statistics-1",
+    "href": "lec4.html#descriptive-statistics-1",
+    "title": "Dispersion",
+    "section": "Descriptive Statistics",
+    "text": "Descriptive Statistics\nDescribe the characteristics of a sample in terms of:\n\nCentral tendency and\nDispersion (aka Variability aka Variance)"
+  },
+  {
+    "objectID": "lec4.html#central-tendency",
+    "href": "lec4.html#central-tendency",
+    "title": "Dispersion",
+    "section": "Central tendency",
+    "text": "Central tendency\nWhat is it, when should we use it, and how do we calculate it?\n\nMean\nMedian\nMode"
+  },
+  {
+    "objectID": "lec4.html#central-tendency-1",
+    "href": "lec4.html#central-tendency-1",
+    "title": "Dispersion",
+    "section": "Central tendency",
+    "text": "Central tendency\nWhat do measures of Central Tendency tell you?\nCentral tendency\nWhat do measures of Central Tendency tell you?\n\nThe mid-point in the data\nThe answer most of the participants gave."
+  },
+  {
+    "objectID": "lec4.html#measures-of-dispersion",
+    "href": "lec4.html#measures-of-dispersion",
+    "title": "Dispersion",
+    "section": "Measures of Dispersion",
+    "text": "Measures of Dispersion\nWhat does dispersion mean?\n\nSpread-out-ness\nHow much the participants’ responses differ from one another\nVariance"
+  },
+  {
+    "objectID": "lec4.html#measures-of-dispersion-1",
+    "href": "lec4.html#measures-of-dispersion-1",
+    "title": "Dispersion",
+    "section": "Measures of Dispersion",
+    "text": "Measures of Dispersion\nMeasures of dispersion tell us about the spread-out-ness of the data, but what does that actually mean?"
+  },
+  {
+    "objectID": "lec4.html#measures-of-dispersion-2",
+    "href": "lec4.html#measures-of-dispersion-2",
+    "title": "Dispersion",
+    "section": "Measures of Dispersion",
+    "text": "Measures of Dispersion\nMeasures of dispersion tell us about the spread-out-ness of the data, but what does that actually mean?\n\nIf I am measuring HYPE, what would low dispersion tell me?\nIf I am measuring HYPE, what would high dispersion tell me?"
+  },
+  {
+    "objectID": "lec4.html#measures-of-dispersion-3",
+    "href": "lec4.html#measures-of-dispersion-3",
+    "title": "Dispersion",
+    "section": "Measures of Dispersion",
+    "text": "Measures of Dispersion\nMeasures of dispersion tell us about consensus.\n\nDid participants give similar answers?\nDid participants give wildly different answers?"
+  },
+  {
+    "objectID": "lec4.html#dispersion",
+    "href": "lec4.html#dispersion",
+    "title": "Dispersion",
+    "section": "Dispersion",
+    "text": "Dispersion\n\nData should have natural dispersion.\nIf everyone gives a similar answer, it’s harder to analyze difference."
+  },
+  {
+    "objectID": "lec4.html#calculating-dispersion",
+    "href": "lec4.html#calculating-dispersion",
+    "title": "Dispersion",
+    "section": "Calculating Dispersion",
+    "text": "Calculating Dispersion\nHow do you think we should calculate dispersion?\n\nON AVERAGE, how far is each X-VALUE from the MIDPOINT.\n\nCalculate how far each X-VALUE is from the MIDPOINT.\nTake the AVERAGE of those distances."
+  },
+  {
+    "objectID": "lec4.html#calculating-dispersion-1",
+    "href": "lec4.html#calculating-dispersion-1",
+    "title": "Dispersion",
+    "section": "Calculating Dispersion",
+    "text": "Calculating Dispersion\nIn psychology, the mid-point we use will be the mean."
+  },
+  {
+    "objectID": "lec4.html#calculating-dispersion-2",
+    "href": "lec4.html#calculating-dispersion-2",
+    "title": "Dispersion",
+    "section": "Calculating Dispersion",
+    "text": "Calculating Dispersion\nHow do you think we should calculate dispersion?\n\nON AVERAGE, how far is each X-VALUE from the MEAN.\n\nCalculate how far each X-VALUE is from the MIDPOINT. 1\nTake the AVERAGE of those distances.\n\n\nDeviation Score"
+  },
+  {
+    "objectID": "lec4.html#deviation-scores",
+    "href": "lec4.html#deviation-scores",
+    "title": "Dispersion",
+    "section": "Deviation Scores",
+    "text": "Deviation Scores\nCalculate how far each X-VALUE is from the MEAN.\n\\[\nx - \\bar{x}\n\\]"
+  },
+  {
+    "objectID": "lec4.html#calculating-dispersion-3",
+    "href": "lec4.html#calculating-dispersion-3",
+    "title": "Dispersion",
+    "section": "Calculating Dispersion",
+    "text": "Calculating Dispersion\nStep 1: Calculate the mean.\n\n\n\n\nParticipantIDX\n\n11\n\n23\n\n32\n\n42\n\n53\n\n62\n\n71\n\n83\n\n91\n\n102\n\n\n\n\n\\[\n\\frac{\\sum(x)}{n}\n\\]\n\\[X = 20 / 10 = 2\\]"
+  },
+  {
+    "objectID": "lec4.html#calculating-dispersion-4",
+    "href": "lec4.html#calculating-dispersion-4",
+    "title": "Dispersion",
+    "section": "Calculating Dispersion",
+    "text": "Calculating Dispersion\nStep 2: Subtract the mean from each X-value.\n\n\n\n\nParticipantIDXx-M\n\n11-1\n\n231\n\n320\n\n420\n\n531\n\n620\n\n71-1\n\n831\n\n91-1\n\n1020\n\n\n\n\n\nThe average of the deviation scores will always = 0.\nOn average, the x-values = x.\nSo the average distance of x from x is 0."
+  },
+  {
+    "objectID": "lec4.html#calculating-dispersion-5",
+    "href": "lec4.html#calculating-dispersion-5",
+    "title": "Dispersion",
+    "section": "Calculating Dispersion",
+    "text": "Calculating Dispersion\nHow do you think we should calculate dispersion?\n\nCalculate the mean.\nCalculate the deviation scores.\nWhat can we do to the deviation scores to prevent them from adding up to 0?\n\n[Make this pop out]\n\nTake the AVERAGE"
+  },
+  {
+    "objectID": "lec4.html#what-is-the-mean-of-the-deviation-scores",
+    "href": "lec4.html#what-is-the-mean-of-the-deviation-scores",
+    "title": "Dispersion",
+    "section": "What is the Mean of the Deviation Scores?",
+    "text": "What is the Mean of the Deviation Scores?\n\nThe problem is the negative numbers!\nHow do we get rid of negative numbers?\n\n\n\n\n\nParticipantIDXx-M(x-M)^2\n\n11-11\n\n2311\n\n3200\n\n4200\n\n5311\n\n6200\n\n71-11\n\n8311\n\n91-11\n\n10200"
+  },
+  {
+    "objectID": "lec4.html#calculating-dispersion-6",
+    "href": "lec4.html#calculating-dispersion-6",
+    "title": "Dispersion",
+    "section": "Calculating Dispersion",
+    "text": "Calculating Dispersion\n\nStep 1: Calculate the mean.\n  X = 20 / 10 = 2\nStep 2: Subtract the mean from each X-value.\nStep 3: Square each deviation score."
+  },
+  {
+    "objectID": "lec4.html#calculating-dispersion-7",
+    "href": "lec4.html#calculating-dispersion-7",
+    "title": "Dispersion",
+    "section": "Calculating Dispersion",
+    "text": "Calculating Dispersion\nNow what: Calculate the average squared deviation.\n\nStep 4: Add up the Squared Deviations.\n\n\n\n\n\nParticipantIDXx-M(x-M)^2\n\n11-11\n\n2311\n\n3200\n\n4200\n\n5311\n\n6200\n\n71-11\n\n8311\n\n91-11\n\n10200\n\n\n\n\n[1] 6"
+  },
+  {
+    "objectID": "lec4.html#calculating-dispersion-8",
+    "href": "lec4.html#calculating-dispersion-8",
+    "title": "Dispersion",
+    "section": "Calculating Dispersion",
+    "text": "Calculating Dispersion\n\nStep 5: Divide by (n-1).\n\n[insert Cat? GIF]\n\n(n-1) refers to the degrees of freedom… don’t worry about it for now.\n\n\n\n[1] 0.6\n\n\nVariance ^"
+  },
+  {
+    "objectID": "lec4.html#calculating-dispersion-9",
+    "href": "lec4.html#calculating-dispersion-9",
+    "title": "Dispersion",
+    "section": "Calculating Dispersion",
+    "text": "Calculating Dispersion\nHow do you think we should calculate dispersion?\n\nON AVERAGE, how far is each X-VALUE from the MEAN.\nCalculate how far each X-VALUE is from the MIDPOINT.\n\n[Make pop-out we did it!…right?]\n\nTake the AVERAGE of those distances."
+  },
+  {
+    "objectID": "lec4.html#calculating-dispersion-10",
+    "href": "lec4.html#calculating-dispersion-10",
+    "title": "Dispersion",
+    "section": "Calculating Dispersion",
+    "text": "Calculating Dispersion\nHow do think we should calculate dispersion?\n\nWhen we squared the deviation scores in Step 3, we inflated the deviation.\n\nWe have to undo that inflation.\nHow do you undo squaring?\nWe take the square root."
+  },
+  {
+    "objectID": "lec4.html#calculating-dispersion-11",
+    "href": "lec4.html#calculating-dispersion-11",
+    "title": "Dispersion",
+    "section": "Calculating Dispersion",
+    "text": "Calculating Dispersion\n\nStep 6: Take the square root.\n\n\\[\n\\sqrt{.667} = .816\n\\]"
+  },
+  {
+    "objectID": "lec4.html#calculating-standard-deviation",
+    "href": "lec4.html#calculating-standard-deviation",
+    "title": "Dispersion",
+    "section": "Calculating standard deviation",
+    "text": "Calculating standard deviation\n\nMean: Calculate the mean.\nDeviation scores: Subtract the mean from each x-value.\nSquared deviations: Square each deviation score.\nSum of squares: Add up the squared deviations.\nVariance: Divide the sum of squares by (n-1).\nStandard Deviation: Take the square root of the variance."
+  },
+  {
+    "objectID": "lec4.html#formulas-for-dispersion",
+    "href": "lec4.html#formulas-for-dispersion",
+    "title": "Dispersion",
+    "section": "Formulas for Dispersion",
+    "text": "Formulas for Dispersion\nVariance\n\\[\ns^2 = \\frac{\\sum(x-\\bar{x})^2}{N-1}\n\\]"
+  },
+  {
+    "objectID": "lec4.html#formulas-for-dispersion-1",
+    "href": "lec4.html#formulas-for-dispersion-1",
+    "title": "Dispersion",
+    "section": "Formulas for Dispersion",
+    "text": "Formulas for Dispersion\nStandard Deviation\n\\[\ns = \\sqrt{\\frac{\\sum(x-\\bar{x})^2}{N-1}}\n\\]\n\nVariance is a measure of dispersion.\n\nIt’s not helpful, because it’s inflated (from squaring the deviation scores).\n\nStandard deviation is a better measure of dispersion, because it is standardized.\n\nThis means that a standard deviation of 1 means a distance of 1 on the scale used to measure x.\nHYPE scale: 1 to 10: standard deviation of 1 means the distance from one rating to the next, from 1 to 2.\nIf the mean = 5, SD = 1, most scores fall between 4 and 6."
+  },
+  {
+    "objectID": "lec4.html#variance-standard-deviation",
+    "href": "lec4.html#variance-standard-deviation",
+    "title": "Dispersion",
+    "section": "Variance & Standard deviation",
+    "text": "Variance & Standard deviation\n\nThe Variance is the standard deviation squared: s²\nThe Standard Deviation is the square root of the variance: s"
+  },
+  {
+    "objectID": "lab.html",
+    "href": "lab.html",
+    "title": "Lab Files",
+    "section": "",
+    "text": "Lab 1: Research Design\n\nDefault: Students are presented with the following research prompt: Professor Brocker and his colleague Dr. Khaled want to find out what exactly is ‘the best music’. How can they go about studying this?\n\nLab 2: Operationalization\n\nDefault: Students think of different ways to operationalize the concept of ‘best music’.\n\nLab 3: Standard Deviations and Z-Scores\n\nDefault: Student enters in an artist they like and calculate standard deviations for each variable item. Students use the z-score formula to determine whether any song(s) are outliers.\n\nData\nLab 4: Descriptive Statistics\n\nDefault: Similar to Lab 3, students will find the Mean, Median, and Mode, and Range for select variables.\n\nLab 5: Hypothesis Testing\n\nDefault: Hypothesis formation will be discussed and the theory-data-cycle will be used to provide students with help in creating a sound hypothesis.\n\nLab 6: Correlation\n\nDefault: Students will discuss which variables they would hypothesize to track with one another and test this statistically.\n\nData\nLab 7: Linear Regression\nData\nLab 8: ANOVA\nData\nLab 9: Follow-up Comparisons in ANOVA\nData\nLab 10: Within-subjects ANOVA\nData\nLab 11: Reliability and Validity\nData\nLab 12: Results Section"
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution",
+    "href": "lec5.html#standard-normal-distribution",
+    "title": "Standard Normal Distribution",
+    "section": "STANDARD NORMAL DISTRIBUTION",
+    "text": "STANDARD NORMAL DISTRIBUTION\nWhat do we know about normal distributions?"
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution-1",
+    "href": "lec5.html#standard-normal-distribution-1",
+    "title": "Standard Normal Distribution",
+    "section": "Standard Normal Distribution",
+    "text": "Standard Normal Distribution\nThe 4 properties of a standard normal distribution are:\n• They are shaped like a bell (“bell curve”).\n• They are symmetric.\n• They are unimodal.\n• The mean = median = mode."
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution-2",
+    "href": "lec5.html#standard-normal-distribution-2",
+    "title": "Standard Normal Distribution",
+    "section": "Standard Normal Distribution",
+    "text": "Standard Normal Distribution\nWhat do we know about normal distributions?\n\n\nThe mean, median, and mode are all the same in a normal distribution."
+  },
+  {
+    "objectID": "lec5.html#standard-deviation",
+    "href": "lec5.html#standard-deviation",
+    "title": "Standard Normal Distribution",
+    "section": "Standard deviation",
+    "text": "Standard deviation\nStandard deviation is in the scale of the variable (x).\n\nThis means a standard deviation of 1 means a distance of 1 on the scale used to measure the variable."
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution-3",
+    "href": "lec5.html#standard-normal-distribution-3",
+    "title": "Standard Normal Distribution",
+    "section": "Standard Normal Distribution",
+    "text": "Standard Normal Distribution\n\nWhat do we know about normal distributions?"
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution-4",
+    "href": "lec5.html#standard-normal-distribution-4",
+    "title": "Standard Normal Distribution",
+    "section": "Standard Normal Distribution",
+    "text": "Standard Normal Distribution\n\nJonas scores a 98 on the exam. The average grade on the exam was 97 with a standard deviation of 1.\nFind Jonas’ score on the normal distribution."
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution-5",
+    "href": "lec5.html#standard-normal-distribution-5",
+    "title": "Standard Normal Distribution",
+    "section": "Standard Normal Distribution",
+    "text": "Standard Normal Distribution\n\nJonas scores a 98 on the exam. The average grade on the exam was 97 with a standard deviation of 1.\nFind Jonas’ score on the normal distribution."
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution-6",
+    "href": "lec5.html#standard-normal-distribution-6",
+    "title": "Standard Normal Distribution",
+    "section": "Standard Normal Distribution",
+    "text": "Standard Normal Distribution\nWhere do most scores fall in relation to the mean?"
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution-7",
+    "href": "lec5.html#standard-normal-distribution-7",
+    "title": "Standard Normal Distribution",
+    "section": "Standard Normal Distribution",
+    "text": "Standard Normal Distribution\n\nMost scores fall within one standard deviation of the mean.\n“Within one standard deviation” means +1 as well as -1 standard deviation."
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution-8",
+    "href": "lec5.html#standard-normal-distribution-8",
+    "title": "Standard Normal Distribution",
+    "section": "Standard Normal Distribution",
+    "text": "Standard Normal Distribution\n68.3% of scores fall within one standard deviation of the mean."
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution-9",
+    "href": "lec5.html#standard-normal-distribution-9",
+    "title": "Standard Normal Distribution",
+    "section": "Standard Normal Distribution",
+    "text": "Standard Normal Distribution\n\n68.3% of scores fall within one standard deviation of the mean."
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution-10",
+    "href": "lec5.html#standard-normal-distribution-10",
+    "title": "Standard Normal Distribution",
+    "section": "Standard Normal Distribution",
+    "text": "Standard Normal Distribution\n\n\n\n68.3% of the data will fall within 1 SD of the mean.\n95.4% of the data will fall within 2 SD of the mean.\n99.7% of the data will fall within 3 SD of the mean."
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution-11",
+    "href": "lec5.html#standard-normal-distribution-11",
+    "title": "Standard Normal Distribution",
+    "section": "Standard Normal Distribution",
+    "text": "Standard Normal Distribution\nStudents’ ratings of the Netflix Original Dark (range = 1- 10) form a normal distribution with m = 6 and s = 1.\n\nWhat percentage of Students rate it a 7 or higher?\nWhat percentage of Students rate it at least a 4?\nWhat percentage of Students rate it an 8 or lower?"
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution-12",
+    "href": "lec5.html#standard-normal-distribution-12",
+    "title": "Standard Normal Distribution",
+    "section": "Standard Normal Distribution",
+    "text": "Standard Normal Distribution\nWhere should we put the mean?\n\n[Insert Mean of 6]"
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution-13",
+    "href": "lec5.html#standard-normal-distribution-13",
+    "title": "Standard Normal Distribution",
+    "section": "Standard Normal Distribution",
+    "text": "Standard Normal Distribution\n\n[Insert 3 4 5 6 7 8 9]\n[Insert -3s -2s .etc]"
+  },
+  {
+    "objectID": "lec5.html#standard-normal-distribution-14",
+    "href": "lec5.html#standard-normal-distribution-14",
+    "title": "Standard Normal Distribution",
+    "section": "Standard Normal Distribution",
+    "text": "Standard Normal Distribution\nStudents’ ratings of the Netflix Original Dark form a normal distribution with m = 6 and s = 1.\n\nWhat percentage of Students rate the Eric Andre Show a 7 or higher?\n\n15.8%\n\nWhat percentage of Students rate the Eric Andre Show at least a 4?\n\n2.2%\n\nWhat percentage of Students rate the Eric Andre Show an 8 or lower?\n\n97.6%"
+  },
+  {
+    "objectID": "lec5.html#z-scores",
+    "href": "lec5.html#z-scores",
+    "title": "Standard Normal Distribution",
+    "section": "Z-scores",
+    "text": "Z-scores\nA z-score tells you in standard deviation units how far the x-value is from the mean.\n\nZ-scores are better than using raw SD, because when the SD is a decimal, it is hard to find the exact point under the standard normal curve."
+  },
+  {
+    "objectID": "lec5.html#z-scores-1",
+    "href": "lec5.html#z-scores-1",
+    "title": "Standard Normal Distribution",
+    "section": "Z-scores:",
+    "text": "Z-scores:\nThe distance from the mean to the 1 on this standard normal curve is equal to the SD.\nThe distance from the mean to the 1 on this standard normal curve is equal to z=1."
+  },
+  {
+    "objectID": "lec5.html#z-scores-2",
+    "href": "lec5.html#z-scores-2",
+    "title": "Standard Normal Distribution",
+    "section": "Z-scores:",
+    "text": "Z-scores:\nFind:\n\nZ = 1\nZ = -2\nZ = 0.5"
+  },
+  {
+    "objectID": "lec5.html#z-scores-3",
+    "href": "lec5.html#z-scores-3",
+    "title": "Standard Normal Distribution",
+    "section": "Z-scores",
+    "text": "Z-scores\nZ-scores re-express the original data points (the X’s) in a way that intuitively lets us know:\n\nHow close the X is to the mean (AKA how much this particular participant is like the average person in the sample)\nWhere it falls in the dispersion of the distribution (AKA how different this particular participant is from the majority of people in the sample)"
+  },
+  {
+    "objectID": "lec5.html#calculating",
+    "href": "lec5.html#calculating",
+    "title": "Standard Normal Distribution",
+    "section": "Calculating",
+    "text": "Calculating\nZ-scores\n\nSubtract the mean from each X value.\nDivide by the standard deviation.\n\n\\[\nz = \\frac{x-\\bar{x}}{s}\n\\]"
+  },
+  {
+    "objectID": "lec5.html#z-scores-5",
+    "href": "lec5.html#z-scores-5",
+    "title": "Standard Normal Distribution",
+    "section": "Z-scores",
+    "text": "Z-scores\nZ-Scores are calculated by:\n\nCentering the X values on the mean: When we center the mean (AKA mean-centering), we set the mean to 0.\nDividing by the standard deviation: When we divide by the SD, the space from the mean is expressed in standard deviations."
+  },
+  {
+    "objectID": "lec5.html#z-scores-6",
+    "href": "lec5.html#z-scores-6",
+    "title": "Standard Normal Distribution",
+    "section": "Z-scores",
+    "text": "Z-scores\n\n\n# A tibble: 5 × 3\n      x `x-xbar` `(x-xbar)^2`\n  &lt;dbl&gt;    &lt;dbl&gt;        &lt;dbl&gt;\n1    10      -10          100\n2    10      -10          100\n3    20        0            0\n4    30       10          100\n5    30       10          100"
+  },
+  {
+    "objectID": "lec5.html#z-scores-7",
+    "href": "lec5.html#z-scores-7",
+    "title": "Standard Normal Distribution",
+    "section": "Z-scores",
+    "text": "Z-scores\n\\(z = \\frac{x-\\bar{x}}{s}\\)\n\\(z = \\frac{-10}{10}\\)\n\nSum of Squares = 400\nVariance = 400/(5-1)\nStandard Deviation = 10\n\n\n\n# A tibble: 5 × 4\n      x `x-xbar` `(x-xbar)^2`     z\n  &lt;dbl&gt;    &lt;dbl&gt;        &lt;dbl&gt; &lt;dbl&gt;\n1    10      -10          100    -1\n2    10      -10          100    -1\n3    20        0            0     0\n4    30       10          100     1\n5    30       10          100     1"
+  },
+  {
+    "objectID": "lec5.html#z-scores-8",
+    "href": "lec5.html#z-scores-8",
+    "title": "Standard Normal Distribution",
+    "section": "Z-scores",
+    "text": "Z-scores\n\nWe made the mean = 0: When you mean-center a distribution, you shift it along the number line.\nWe made the SD = 1: When you divide a distribution by the SD, you shrink the distribution down.\nBUT: The shape of the distribution remains the same."
+  },
+  {
+    "objectID": "lec5.html#z-scores-9",
+    "href": "lec5.html#z-scores-9",
+    "title": "Standard Normal Distribution",
+    "section": "Z-scores",
+    "text": "Z-scores\nShift distribution along the number line.\nShrink distribution down.\nThe shape of the distribution remains the same."
+  },
+  {
+    "objectID": "lec5.html#z-scores-10",
+    "href": "lec5.html#z-scores-10",
+    "title": "Standard Normal Distribution",
+    "section": "Z-Scores",
+    "text": "Z-Scores\nWhy Do We Care?\n\nA z-score tells me where my score falls in SD units.\nI can then look at this standard normal curve, and estimate what percentage of people did better or worse than me."
+  },
+  {
+    "objectID": "lec5.html#z-scores-11",
+    "href": "lec5.html#z-scores-11",
+    "title": "Standard Normal Distribution",
+    "section": "Z-Scores",
+    "text": "Z-Scores\nWhy Do We Care?\nThe mean score for Exam 1 was a 92 with a standard deviation of 3.\n\nEsmeralda scored an 86.\nWhat percent of the class scored better than Esmeralda?\n\n\\(z=\\frac{x-\\bar{x}}{s}\\)\n\\(z = \\frac{86-92}{3} = -2\\)\n\n86-92/3 = -2\n98% of the class did better than Esmeralda."
+  },
+  {
+    "objectID": "lec5.html#z-scores-12",
+    "href": "lec5.html#z-scores-12",
+    "title": "Standard Normal Distribution",
+    "section": "Z-Scores",
+    "text": "Z-Scores\nThe mean score for Exam 1 was a 92 with a standard deviation of 3.\nJonas scored a 95.\n\nWhat percent of the class scored better than Jonas?\n\n\\[\nz = \\frac{95-92}{3} = 1\n\\]\n16% scored higher than Jonas."
+  },
+  {
+    "objectID": "lec2.html#studying-psychology",
+    "href": "lec2.html#studying-psychology",
+    "title": "Operationalization",
+    "section": "Studying Psychology",
+    "text": "Studying Psychology\nWhat do researchers in the areas of psychology that are interesting to you study?\n\n\n\nAttitudes\nBeliefs\nBehaviors\n\n\n\nBrain Activity\nThoughts\nPerformance/Ability"
+  },
+  {
+    "objectID": "lec2.html#studying-psychology-1",
+    "href": "lec2.html#studying-psychology-1",
+    "title": "Operationalization",
+    "section": "Studying Psychology",
+    "text": "Studying Psychology\nThe Bobo Doll Experiment (Bandura, 1961)"
+  },
+  {
+    "objectID": "lec2.html#operationalization",
+    "href": "lec2.html#operationalization",
+    "title": "Operationalization",
+    "section": "Operationalization",
+    "text": "Operationalization\n\nThe process of defining the measurement of a phenomenon that is not directly measurable (AKA a latent variable) though its existence is implied by other phenomena."
+  },
+  {
+    "objectID": "lec2.html#operationalization-1",
+    "href": "lec2.html#operationalization-1",
+    "title": "Operationalization",
+    "section": "Operationalization",
+    "text": "Operationalization\nFiguring out how to measure something you can’t directly measure.\n\nAttitudes, Beliefs, Thoughts\nBehaviors\nBrain activity\nPerformance/Abilities"
+  },
+  {
+    "objectID": "lec2.html#operationalization-2",
+    "href": "lec2.html#operationalization-2",
+    "title": "Operationalization",
+    "section": "Operationalization",
+    "text": "Operationalization\n\nSelf-Report OR Behavioral Measures\nObservation\nImplicit Measures\nTests OR Observation"
+  },
+  {
+    "objectID": "lec2.html#self-report",
+    "href": "lec2.html#self-report",
+    "title": "Operationalization",
+    "section": "Self-report",
+    "text": "Self-report\n\nAKA surveys\nAKA questionnaires"
+  },
+  {
+    "objectID": "lec2.html#self-report-1",
+    "href": "lec2.html#self-report-1",
+    "title": "Operationalization",
+    "section": "Self-Report",
+    "text": "Self-Report\nWhat’s wrong with this?\n\nviewof survey = Inputs.radio(\n  [\"Best\", \"Greatest\", \"G.O.A.T\"],\n  {label: \"Professor Brocker is the____\"}\n)"
+  },
+  {
+    "objectID": "lec2.html#self-report-2",
+    "href": "lec2.html#self-report-2",
+    "title": "Operationalization",
+    "section": "Self-Report:",
+    "text": "Self-Report:\nAdvantages\n\nMost popular method of assessing attitudes1\nCan obtain large amounts of data\nQuick\n\nIn certain fields"
+  },
+  {
+    "objectID": "lec2.html#self-report-3",
+    "href": "lec2.html#self-report-3",
+    "title": "Operationalization",
+    "section": "Self-Report:",
+    "text": "Self-Report:\nDisadvantages\n\nAcquiescence\n\n\nTendency to say yes, true, agree\n\n\nSocial desirability\n\n\nTendency to respond in ways that are seen as socially acceptable\n\n\nDemand characteristics\n\n\nTendency to response in ways that participant thinks researcher wants"
+  },
+  {
+    "objectID": "lec2.html#self-report-4",
+    "href": "lec2.html#self-report-4",
+    "title": "Operationalization",
+    "section": "Self-report:",
+    "text": "Self-report:\nAvoiding Disadvantages\n\nAnonymous respondents are less likely to make things up\n\nAssure anonymity\n\n\n\nAllow respondents to answer in private\n\nAllow for maximum privacy\n\n\n\nDon’t make your experiment too obvious/revealing\n\nObscure the true goal of the experiment\n\n\n\nAdd questions that test for respondent awareness\n\nInclude attention checks\n\n\n\nPurposely make some questions opposite\n\nReverse coding"
+  },
+  {
+    "objectID": "lec2.html#behavioral-measures",
+    "href": "lec2.html#behavioral-measures",
+    "title": "Operationalization",
+    "section": "Behavioral Measures",
+    "text": "Behavioral Measures\n\nTaking a flier\nSigning a petition\nInternet Behavior 1\n\nNot a perfect stand-in!"
+  },
+  {
+    "objectID": "lec2.html#observation",
+    "href": "lec2.html#observation",
+    "title": "Operationalization",
+    "section": "Observation",
+    "text": "Observation\nThe Bobo Doll Experiment (Bandura, 1961)"
+  },
+  {
+    "objectID": "lec2.html#the-bobo-doll-experiment",
+    "href": "lec2.html#the-bobo-doll-experiment",
+    "title": "Operationalization",
+    "section": "The Bobo Doll Experiment",
+    "text": "The Bobo Doll Experiment\n(Bandura, 1961)\n\nLive aggression by adult\nVideotaped aggression by adult\nCartoon aggression\n\nNo aggression"
+  },
+  {
+    "objectID": "lec2.html#observation-1",
+    "href": "lec2.html#observation-1",
+    "title": "Operationalization",
+    "section": "Observation",
+    "text": "Observation\nDisadvantages\n\nTime consuming\nDifferent reviewers/observers may score behaviors differently.\n\nCoding scheme\nInter-rater Reliability"
+  },
+  {
+    "objectID": "lec2.html#implicit-measures",
+    "href": "lec2.html#implicit-measures",
+    "title": "Operationalization",
+    "section": "Implicit measures",
+    "text": "Implicit measures\nBrain activity\n\n\n\nFunctional Magnetic Resonance Imaging (fMRI)\n\nneuroimaging of brain activity\n\n\n\n\n\nElectroencephalography (EEG)\n\nelectrodes on surface of scalp measures brain activity"
+  },
+  {
+    "objectID": "lec2.html#issues-with-operationalization",
+    "href": "lec2.html#issues-with-operationalization",
+    "title": "Operationalization",
+    "section": "Issues with Operationalization",
+    "text": "Issues with Operationalization\nWhy is it hard to measure psychological phenomena?\n\nOthers may choose to measure the phenomena differently from us\nOperationalization can be culture-specific\nWhat we measure is based on observable parts of the phenomena, but some parts may be unobservable\n\nMeasuring only the observable/reportable is imprecise"
+  },
+  {
+    "objectID": "lec2.html#operationalization-3",
+    "href": "lec2.html#operationalization-3",
+    "title": "Operationalization",
+    "section": "Operationalization",
+    "text": "Operationalization\nHow should we measure aggression in children?\n\nObserver children for one hour and…\n\nLabel them as Aggressive or Non-Aggressive\nRank them from most aggressive to least aggressive\nScore them on a 10-point scale.\n\n1 = No Aggression\n10 = All of the Aggression\n\nCount number of aggressive behaviors"
+  },
+  {
+    "objectID": "lec2.html#scales-of-measurement",
+    "href": "lec2.html#scales-of-measurement",
+    "title": "Operationalization",
+    "section": "Scales of measurement",
+    "text": "Scales of measurement\n\nLabels\nRank\nScale\nCount"
+  },
+  {
+    "objectID": "lec2.html#scales-of-measurement-1",
+    "href": "lec2.html#scales-of-measurement-1",
+    "title": "Operationalization",
+    "section": "Scales of measurement",
+    "text": "Scales of measurement\n\nNominal\nOrder\nInterval\nRatio"
+  },
+  {
+    "objectID": "lec2.html#measurement-scales-nominal",
+    "href": "lec2.html#measurement-scales-nominal",
+    "title": "Operationalization",
+    "section": "Measurement scales: Nominal",
+    "text": "Measurement scales: Nominal\nNominal, like name, refers to categories that CANNOT be ordered:\n\nCondition (experimental, control)\nGender\nMajor in college\nCoffee drinker versus Non-coffee drinker (aka sociopath)"
+  },
+  {
+    "objectID": "lec2.html#measurement-scales-ordinal",
+    "href": "lec2.html#measurement-scales-ordinal",
+    "title": "Operationalization",
+    "section": "Measurement scales: Ordinal",
+    "text": "Measurement scales: Ordinal\nOrdinal, like order, refers to categories that CAN be ordered, but the space between each category isn’t necessarily the same:\n\nOlympic Medals\nWinner in a Race\nYour rank in this class"
+  },
+  {
+    "objectID": "lec2.html#measurement-scales-interval",
+    "href": "lec2.html#measurement-scales-interval",
+    "title": "Operationalization",
+    "section": "Measurement scales: Interval",
+    "text": "Measurement scales: Interval\nInterval refers to ratings that are ordered where the interval between each rating is the same, but there is no real “0.”\n\nTemperature*\n“On a scale of 1-10 How much do you agree with the following statement…”"
+  },
+  {
+    "objectID": "lec2.html#measurement-scales-ratio",
+    "href": "lec2.html#measurement-scales-ratio",
+    "title": "Operationalization",
+    "section": "Measurement scales: Ratio",
+    "text": "Measurement scales: Ratio\nRatio, refers to ratings that are ordered, the interval between each rating is the same, and “0” means “0.”\n\nLength\nReaction Time\nDosage"
+  },
+  {
+    "objectID": "lec2.html#ordinal-scales",
+    "href": "lec2.html#ordinal-scales",
+    "title": "Operationalization",
+    "section": "Ordinal Scales",
+    "text": "Ordinal Scales\n\nRarely used in psychological research, because it is hard to calculate variance when the interval between each number differs.\nThere are non-parametric statistics designed for ordinal scales, but we will not be covering those this semester."
+  },
+  {
+    "objectID": "lec2.html#interval-vs-ratio",
+    "href": "lec2.html#interval-vs-ratio",
+    "title": "Operationalization",
+    "section": "Interval vs Ratio",
+    "text": "Interval vs Ratio\nWhat’s the difference between interval and ratio?\n\nInterval may have a 0 on the scale, but it doesn’t mean the absence of something. A 0.0 GPA means an F rather than the absence of a grade.\nRatio has a 0 that. means 0 (the absence of something), like a ‘0’ as a response to the questions, “How many drinks did you have last night?”"
+  },
+  {
+    "objectID": "lec2.html#determining-scale-of-measurement",
+    "href": "lec2.html#determining-scale-of-measurement",
+    "title": "Operationalization",
+    "section": "Determining Scale of measurement",
+    "text": "Determining Scale of measurement\nIdentify the scale of measurement.\nUndergraduates report their self-esteem on a scale of 1 to 10. Researchers assess the relationship of undergraduates’ self-esteem and GPA.\n\nPredictor variable: Self-Esteem | Continuous (Interval)\nOutcome variable: GPA | Continuous (Interval)"
+  },
+  {
+    "objectID": "lec2.html#determining-scale-of-measurement-1",
+    "href": "lec2.html#determining-scale-of-measurement-1",
+    "title": "Operationalization",
+    "section": "Determining Scale of measurement",
+    "text": "Determining Scale of measurement\nIdentify the scale of measurement.\nParticipants are given a mystery drug or placebo and then asked to complete puzzle tasks. Researchers time how long participants take to complete the puzzles.\n\nIndependent variable: Drug vs. Placebo Categorical (Nominal)\nDependent variable: Reaction Time | Continuous (Ratio)"
+  },
+  {
+    "objectID": "lec2.html#determining-scale-of-measurement-2",
+    "href": "lec2.html#determining-scale-of-measurement-2",
+    "title": "Operationalization",
+    "section": "Determining Scale of measurement",
+    "text": "Determining Scale of measurement\nIdentify the scale of measurement.\nUndergraduates are shown either pictures of death or pictures of landscapes. They then report their anxiety about aging on a scale of 1 (none) to 10 (lots).\n\nIndependent variable: Pictures of death versus landscapes | Categorical (Nominal)\nDependent variable: Anxiety about dying | Continuous (Interval)"
+  },
+  {
+    "objectID": "lec2.html#why-does-scale-of-measurement-matter",
+    "href": "lec2.html#why-does-scale-of-measurement-matter",
+    "title": "Operationalization",
+    "section": "WHY does scale of measurement matter?",
+    "text": "WHY does scale of measurement matter?\n\nStatistical tests can only be run on specific scales of measurement.\nt-test & ANOVA: Nominal IV/predictor and Continuous DV/outcome\nCorrelation & Regression: All continuous"
+  },
+  {
+    "objectID": "lec2.html#why-does-scale-of-measurement-matter-1",
+    "href": "lec2.html#why-does-scale-of-measurement-matter-1",
+    "title": "Operationalization",
+    "section": "Why does scale of measurement matter?",
+    "text": "Why does scale of measurement matter?\n\nGenerally, continuous variables (interval and ratio scales) lend themselves better to statistical analysis.\nAs a researcher, you should plan out your statistical analysis BEFORE conducting your study, so that you measure your variables in a way that matches the type of analyses you will run.\nTAKE AWAY: How we measure variables matters because it dictates what kind of statistical analyses we can run."
+  },
+  {
+    "objectID": "lec2.html#statistical-terms-symbols",
+    "href": "lec2.html#statistical-terms-symbols",
+    "title": "Operationalization",
+    "section": "Statistical terms & Symbols",
+    "text": "Statistical terms & Symbols"
+  },
+  {
+    "objectID": "lec2.html#statistical-terms",
+    "href": "lec2.html#statistical-terms",
+    "title": "Operationalization",
+    "section": "Statistical terms",
+    "text": "Statistical terms\n\nPopulation\n\nEvery person in the group I am interested in studying\n\nSample\n\nA small subset of people from the population who we will actually study in our experiment.\n\nParameter:\n\nInformation about the population.\n\nStatistic\n\nInformation about the sample."
+  },
+  {
+    "objectID": "lec2.html#statistical-symbols",
+    "href": "lec2.html#statistical-symbols",
+    "title": "Operationalization",
+    "section": "Statistical Symbols",
+    "text": "Statistical Symbols\nCase-sensitive and often Greek\n\n\\(n\\) = the number of people in the sample\n\\(x\\) = one datapoint in a sample\n\\(\\bar{x}\\) = Arithmetic mean (average) for a sample, x\n\\(\\Sigma(x)\\) = The sum of all values in a sample, x\n\\(\\sum^{n}_{i = 1} = x_1 +x_2+x_3...\\)"
+  },
+  {
+    "objectID": "lec2.html#practice-1",
+    "href": "lec2.html#practice-1",
+    "title": "Operationalization",
+    "section": "Practice 1",
+    "text": "Practice 1\nStudy Up!\n\nEsmeralda is taking Statistics for the Psychological Sciences. On her first exam, she scored 98. The average grade among the 26 students on that exam was 97\n\n\nviewof n = Inputs.text({\n  label: \"n\", \n  placeholder: \"Enter the value of n\",\n  width: \"40%\"\n  })\n\nviewof x = Inputs.text({\n  label: \"x\", \n  placeholder: \"Enter the value of x\",\n  width: \"40%\"\n})\n\nviewof xbar = Inputs.text({\n  label: \"xbar\", \n  placeholder: \"Enter the value of xbar\",\n  width: \"40%\"})"
+  },
+  {
+    "objectID": "lec2.html#practice-2",
+    "href": "lec2.html#practice-2",
+    "title": "Operationalization",
+    "section": "Practice 2",
+    "text": "Practice 2\nYou Ever Heard of this show?\n\nProfessor Brocker is interested in how many Farmingdale students watch the Netflix Original, Dark. He plans to ask 200 students if they have seen it or not.\n\n\nviewof pop = Inputs.text({\n  label: \"N\", \n  placeholder: \"\",\n  width: \"40%\"\n  \n})\n\nviewof n2 = Inputs.text({\n  label: \"n\", \n  placeholder: \"\",\n  width: \"40%\"\n  \n})\n\nviewof scale = Inputs.text({\n  label: \"Scale of measurment\", \n  placeholder: \"\",\n  width: \"40%\"\n  \n})"
+  },
+  {
+    "objectID": "lec2.html#practice-3",
+    "href": "lec2.html#practice-3",
+    "title": "Operationalization",
+    "section": "Practice 3",
+    "text": "Practice 3\nBe Kind to Yourself!\n\nA research study surveys 500 college student across 5 campuses in the United States, asking them to rate their self-esteem on a scale of 1 to 10.\n\n\nInputs.text({\n  label: \"Sample\", \n  placeholder: \"\",\n  width: \"40%\"})\n\n\n\n\n\n\n\nInputs.text({\n  label: \"Population\", \n  placeholder: \"\",\n  width: \"40%\"})\n\n\n\n\n\n\n\nInputs.text({\n  label: \"Scale of measurment\", \n  placeholder: \"\",\n  width: \"40%\"})"
+  },
+  {
+    "objectID": "lec1.html#meet-the-instructor",
+    "href": "lec1.html#meet-the-instructor",
+    "title": "Welcome!",
+    "section": "Meet the Instructor",
+    "text": "Meet the Instructor"
+  },
+  {
+    "objectID": "lec1.html#info",
+    "href": "lec1.html#info",
+    "title": "Welcome!",
+    "section": "Info",
+    "text": "Info\nName: Professor Brocker\nBackground: 7+ years of teaching stats, turning confusion into clarity.\nEducation: Master’s in Experimental Psychology (specializing in Morality and Emotion).\nResearch: Morbid Curiosity & Creepiness—let’s explore the weird and wonderful!"
+  },
+  {
+    "objectID": "lec1.html#my-teaching-style",
+    "href": "lec1.html#my-teaching-style",
+    "title": "Welcome!",
+    "section": "My Teaching Style 🎓",
+    "text": "My Teaching Style 🎓\n\nHumor: Statistics can be fun, I promise! Expect some laughs along the way.\nInteractive: I love questions—ask away! [Add RMP comment]\nReal-World Examples: We’ll talk about data that actually matters to you."
+  },
+  {
+    "objectID": "lec1.html#outside-of-class",
+    "href": "lec1.html#outside-of-class",
+    "title": "Welcome!",
+    "section": "Outside of Class 🕹️",
+    "text": "Outside of Class 🕹️\n\nHobbies: When I’m not knee-deep in data, I enjoy making tools to find new music, playing guitar, and finding new food spots with my wife!"
+  },
+  {
+    "objectID": "lec1.html#why-are-we-here",
+    "href": "lec1.html#why-are-we-here",
+    "title": "Welcome!",
+    "section": "Why are we here?",
+    "text": "Why are we here?\nTo turn confusion into confidence and numbers into knowledge!"
+  },
+  {
+    "objectID": "lec1.html#what-is-statistics",
+    "href": "lec1.html#what-is-statistics",
+    "title": "Welcome!",
+    "section": "What is Statistics? 🤔",
+    "text": "What is Statistics? 🤔\n\nThe art of turning data into… more confusing data (just kidding!).\nIt’s the science of making sense of the world through numbers."
+  },
+  {
+    "objectID": "lec1.html#but-seriously-what-is-statistics",
+    "href": "lec1.html#but-seriously-what-is-statistics",
+    "title": "Welcome!",
+    "section": "But Seriously, What is Statistics?",
+    "text": "But Seriously, What is Statistics?\nStatistics is the science of collecting, analyzing, and interpreting data to make informed decisions.\nTranslation:\n“We help people who hate math feel smart with numbers!”"
+  },
+  {
+    "objectID": "lec1.html#why-should-you-care",
+    "href": "lec1.html#why-should-you-care",
+    "title": "Welcome!",
+    "section": "Why Should You Care? 🤓",
+    "text": "Why Should You Care? 🤓\n\nBecause data is everywhere, even in your favorite Netflix recommendations!\nKnowing stats can help you win arguments on the internet with facts.\nIt’s like having a superpower—just without the cape."
+  },
+  {
+    "objectID": "lec1.html#what-youll-learn-this-semester",
+    "href": "lec1.html#what-youll-learn-this-semester",
+    "title": "Welcome!",
+    "section": "What You’ll Learn This Semester 📚",
+    "text": "What You’ll Learn This Semester 📚\n\nHow to describe data like a pro\nThe magic of probability (yes, magic)\nTesting hypotheses (no rabbits involved)\nCorrelation, regression, and causation—oh my!"
+  },
+  {
+    "objectID": "lec1.html#how-this-class-works",
+    "href": "lec1.html#how-this-class-works",
+    "title": "Welcome!",
+    "section": "How This Class Works 🕹️",
+    "text": "How This Class Works 🕹️\n\nParticipation: Asking questions makes you smart (and makes me happy)!\nHomework: It’s like Netflix binging but with numbers.\nExams: Where you’ll show off your new superpowers."
+  },
+  {
+    "objectID": "lec1.html#fun-fact",
+    "href": "lec1.html#fun-fact",
+    "title": "Welcome!",
+    "section": "Fun Fact! 💡",
+    "text": "Fun Fact! 💡\nDid you know? If you toss a coin 10 times, there’s a 50% chance it lands heads every time. (Not really… but we’ll get to that!)"
+  },
+  {
+    "objectID": "lec1.html#any-questions",
+    "href": "lec1.html#any-questions",
+    "title": "Welcome!",
+    "section": "Any Questions? 🗣️",
+    "text": "Any Questions? 🗣️\nBefore we dive into numbers, let’s chat! Any burning questions or random thoughts?"
+  },
+  {
+    "objectID": "lec1.html#syllabus",
+    "href": "lec1.html#syllabus",
+    "title": "Welcome!",
+    "section": "Syllabus",
+    "text": "Syllabus\n[insert iframe of class website]"
+  },
+  {
+    "objectID": "lec3.html#review",
+    "href": "lec3.html#review",
+    "title": "Measures of Central Tendency",
+    "section": "Review",
+    "text": "Review\nScales of Measurement\n\nWhat are the 4 scales of measurement\nWhat are the only scales of measurement that matter for us?"
+  },
+  {
+    "objectID": "lec3.html#review-1",
+    "href": "lec3.html#review-1",
+    "title": "Measures of Central Tendency",
+    "section": "Review",
+    "text": "Review\nScales of Measurement\n\nNominal\nOrdinal\nInterval\nRatio"
+  },
+  {
+    "objectID": "lec3.html#review-2",
+    "href": "lec3.html#review-2",
+    "title": "Measures of Central Tendency",
+    "section": "Review",
+    "text": "Review\nStatistical Terms\n\nn = ?\nx = ?"
+  },
+  {
+    "objectID": "lec3.html#review-3",
+    "href": "lec3.html#review-3",
+    "title": "Measures of Central Tendency",
+    "section": "Review",
+    "text": "Review\nStatistical Terms\nn = the number of people in the sample\nx = one participant’s score"
+  },
+  {
+    "objectID": "lec3.html#review-4",
+    "href": "lec3.html#review-4",
+    "title": "Measures of Central Tendency",
+    "section": "Review",
+    "text": "Review\nStatistical Terms\n\nWhat is a parameter?\n\nInformation that describes the population.\n\nWhat is a statistic?\n\nInformation that describes the sample.\nInferences about the population based on information from the sample."
+  },
+  {
+    "objectID": "lec3.html#descriptive-statistics",
+    "href": "lec3.html#descriptive-statistics",
+    "title": "Measures of Central Tendency",
+    "section": "Descriptive Statistics",
+    "text": "Descriptive Statistics\nDescribe the characteristics of the sample.\n\nThink about our HYPE data.\nHow could we describe it?\n\nAverage\nMin & Max"
+  },
+  {
+    "objectID": "lec3.html#descriptive-statistics-1",
+    "href": "lec3.html#descriptive-statistics-1",
+    "title": "Measures of Central Tendency",
+    "section": "Descriptive Statistics",
+    "text": "Descriptive Statistics\nThink about our HYPE data.\nHow could we describe it?\n\nAverage: The number most of us rated the HYPE of the song\nMin & Max: The lowest and highest we rated the HYPE of the song"
+  },
+  {
+    "objectID": "lec3.html#descriptive-statistics-2",
+    "href": "lec3.html#descriptive-statistics-2",
+    "title": "Measures of Central Tendency",
+    "section": "Descriptive Statistics",
+    "text": "Descriptive Statistics\nDescribe the characteristics of a sample in terms of:\n\nCentral tendency: What most people said\nDispersion: How spread out the data are"
+  },
+  {
+    "objectID": "lec3.html#measures-of-central-tendency",
+    "href": "lec3.html#measures-of-central-tendency",
+    "title": "Measures of Central Tendency",
+    "section": "Measures of Central tendency",
+    "text": "Measures of Central tendency\n\nTell us about the mid-point (center) of a distribution.\nTell us about the mid-point (center) of a distribution.\nTell us most participants’ answer."
+  },
+  {
+    "objectID": "lec3.html#measures-of-central-tendency-1",
+    "href": "lec3.html#measures-of-central-tendency-1",
+    "title": "Measures of Central Tendency",
+    "section": "Measures of Central tendency",
+    "text": "Measures of Central tendency\n\nMean\n\nthe average; obtained by summing all values and dividing by the number of values.\n\\(\\sum^{n}_{i=1} = x_1 + x_2...\\)\n\nMedian\n\nThe middle number; obtained by ordering all values from lowest to highest and taking the middle (if n is odd or the average of the 2 middle if n is even)\n\nMode\n\nthe most frequent answer; obtained by counting how many times each answer is given and taking the value that occurs most often"
+  },
+  {
+    "objectID": "lec3.html#measures-of-central-tendency-2",
+    "href": "lec3.html#measures-of-central-tendency-2",
+    "title": "Measures of Central Tendency",
+    "section": "Measures of Central tendency",
+    "text": "Measures of Central tendency\nStandard Normal Distribution\nAdd geom_annotate for mean, median, mode"
+  },
+  {
+    "objectID": "lec3.html#measures-of-central-tendency-3",
+    "href": "lec3.html#measures-of-central-tendency-3",
+    "title": "Measures of Central Tendency",
+    "section": "Measures of Central tendency",
+    "text": "Measures of Central tendency\nIn a normal distribution, the mean, median, and mode are equal to one another.\nMean = Median = Mode"
+  },
+  {
+    "objectID": "lec3.html#measures-of-central-tendency-4",
+    "href": "lec3.html#measures-of-central-tendency-4",
+    "title": "Measures of Central Tendency",
+    "section": "Measures of Central tendency",
+    "text": "Measures of Central tendency\nThe Mean is good for use in normal distrbutions"
+  },
+  {
+    "objectID": "lec3.html#the-mean",
+    "href": "lec3.html#the-mean",
+    "title": "Measures of Central Tendency",
+    "section": "The mean",
+    "text": "The mean\n\nThe mean is only helpful in a normal distribution, which you may have heard called a normal curve or bell curve.\nWe overwhelmingly use the mean, because in the social and behavioral sciences, we nearly always assume the distribution is normal."
+  },
+  {
+    "objectID": "lec3.html#measures-of-central-tendency-5",
+    "href": "lec3.html#measures-of-central-tendency-5",
+    "title": "Measures of Central Tendency",
+    "section": "Measures of Central tendency",
+    "text": "Measures of Central tendency\nWhen should we use the median…\nA skewed distribution occurs when one side of the date gets cut off due to measurement limitation."
+  },
+  {
+    "objectID": "lec3.html#the-median",
+    "href": "lec3.html#the-median",
+    "title": "Measures of Central Tendency",
+    "section": "The Median",
+    "text": "The Median\n\nIn a skewed distribution, the mean gets pulled out toward the tail, and the mode gets pulled to the cluster.\nThe median is the best measure of central tendency for skewed distributions because it tells us how most people answered."
+  },
+  {
+    "objectID": "lec3.html#measures-of-central-tendency-6",
+    "href": "lec3.html#measures-of-central-tendency-6",
+    "title": "Measures of Central Tendency",
+    "section": "Measures of Central tendency",
+    "text": "Measures of Central tendency\nThe Mode\n\nThe mode is good for bi-or-tri-modal distributions.\nWhen might you have a bi-modal distribution?"
+  },
+  {
+    "objectID": "lec3.html#measures-of-central-tendency-7",
+    "href": "lec3.html#measures-of-central-tendency-7",
+    "title": "Measures of Central Tendency",
+    "section": "Measures of Central tendency",
+    "text": "Measures of Central tendency\nThe Mode"
+  },
+  {
+    "objectID": "lec3.html#measures-of-central-tendency-8",
+    "href": "lec3.html#measures-of-central-tendency-8",
+    "title": "Measures of Central Tendency",
+    "section": "Measures of Central tendency",
+    "text": "Measures of Central tendency\nThe Mode"
+  },
+  {
+    "objectID": "lec3.html#when-should-we-use",
+    "href": "lec3.html#when-should-we-use",
+    "title": "Measures of Central Tendency",
+    "section": "When should we use…",
+    "text": "When should we use…\n\nMean\n\ngood for normal distributions\n\nMedian\n\ngood for skewed distributions\n\nMode\n\ngood for bimodal distributions"
+  },
+  {
+    "objectID": "lec3.html#central-tendency-which-should-we-use",
+    "href": "lec3.html#central-tendency-which-should-we-use",
+    "title": "Measures of Central Tendency",
+    "section": "Central tendency: Which should we use?",
+    "text": "Central tendency: Which should we use?\nTwo or More Peaks\n[Insert Bimodal]"
+  },
+  {
+    "objectID": "lec3.html#central-tendency-which-should-we-use-1",
+    "href": "lec3.html#central-tendency-which-should-we-use-1",
+    "title": "Measures of Central Tendency",
+    "section": "Central tendency: Which should we use?",
+    "text": "Central tendency: Which should we use?\nSlide to the Left!\n[Insert Skewed]"
+  },
+  {
+    "objectID": "lec3.html#central-tendency-which-should-we-use-2",
+    "href": "lec3.html#central-tendency-which-should-we-use-2",
+    "title": "Measures of Central Tendency",
+    "section": "Central tendency: Which should we use?",
+    "text": "Central tendency: Which should we use?\nLooks Normal to Me\n[Insert Normal]"
+  },
+  {
+    "objectID": "lec3.html#measures-of-central-tendency-9",
+    "href": "lec3.html#measures-of-central-tendency-9",
+    "title": "Measures of Central Tendency",
+    "section": "Measures of Central tendency:",
+    "text": "Measures of Central tendency:\nThe mean\n\nWe use the mean most often in social science, because many of our statistical tests can only be used on normal distributions.\nWe assume normality of the distribution, and use the mean."
+  },
+  {
+    "objectID": "lec3.html#calculating-measures-of-central-tendency",
+    "href": "lec3.html#calculating-measures-of-central-tendency",
+    "title": "Measures of Central Tendency",
+    "section": "Calculating measures of central tendency",
+    "text": "Calculating measures of central tendency\nCalculating The mean\n\nSum all x values\nDivide by the number of x values (n).\n\nx = 4,2,5,6\n\\(\\frac{\\Sigma(x)}{n}\\)\n\\(\\Sigma(x) = 4 + 2 + 5 + 6 = 17\\)\n\\(\\frac{17}{4} = 4.25\\)"
+  },
+  {
+    "objectID": "lec3.html#calculating-measures-of-central-tendency-1",
+    "href": "lec3.html#calculating-measures-of-central-tendency-1",
+    "title": "Measures of Central Tendency",
+    "section": "Calculating measures of central tendency",
+    "text": "Calculating measures of central tendency"
+  },
+  {
+    "objectID": "lec3.html#calculating-the-median",
+    "href": "lec3.html#calculating-the-median",
+    "title": "Measures of Central Tendency",
+    "section": "Calculating The median",
+    "text": "Calculating The median\n\nPut all x values in order from smallest or largest or largest to smallest.\nFind the middle number.\nIf there are an even number of x values, take the average of the 2 middle numbers.\nx = 4,2,5,6,3\nx = 2,3,4,5,6"
+  },
+  {
+    "objectID": "lec3.html#calculating-measures-of-central-tendency-2",
+    "href": "lec3.html#calculating-measures-of-central-tendency-2",
+    "title": "Measures of Central Tendency",
+    "section": "Calculating measures of central tendency",
+    "text": "Calculating measures of central tendency\nCalculating The mode\n\nPut all x values in order from smallest or largest or largest to smallest. \\(x = [3,2,1,5,3,7,8,3,2,4,1]\\)\nFind the number or numbers that repeat the most. \\(x = [1,1,2,2,3,3,3,4,5,7,8]\\)\nThere can be more than 1 mode."
+  },
+  {
+    "objectID": "lec3.html#using-excel",
+    "href": "lec3.html#using-excel",
+    "title": "Measures of Central Tendency",
+    "section": "Using Excel",
+    "text": "Using Excel\nExcel Practice\n\nCell\nColumns\nRows"
+  },
+  {
+    "objectID": "lec3.html#excel-practice-1",
+    "href": "lec3.html#excel-practice-1",
+    "title": "Measures of Central Tendency",
+    "section": "Excel Practice",
+    "text": "Excel Practice\nOpen our Class Data in Google Sheets.\n\nWhat does each row in this spreadsheet represent?\nWhat does each column in this spreadsheet represent?"
+  },
+  {
+    "objectID": "lec3.html#excel-practice-2",
+    "href": "lec3.html#excel-practice-2",
+    "title": "Measures of Central Tendency",
+    "section": "Excel Practice",
+    "text": "Excel Practice\n\nAdding & Summing\nSubtracting\nMultiplying\nDividing\nSquaring"
+  },
+  {
+    "objectID": "lec3.html#excel-practice-3",
+    "href": "lec3.html#excel-practice-3",
+    "title": "Measures of Central Tendency",
+    "section": "Excel Practice",
+    "text": "Excel Practice\n\nAdding & Sum: SUM(B2:B10)\nSubtracting: C9 - C2\nMultiplying: B12 * 4\nDividing: A2/B3\nSquaring: (B2-C2)^2\nAverage: AVERAGE(B2:B20)"
+  },
+  {
+    "objectID": "lec3.html#excel-practice-4",
+    "href": "lec3.html#excel-practice-4",
+    "title": "Measures of Central Tendency",
+    "section": "Excel Practice",
+    "text": "Excel Practice\n\nOpen our Class Data in Google Sheets.\nDownload our Class Data into Microsoft Excel.\nLook at the HYPE rating for 1/25\nCalculate the Mean\nUsing (SUM(x))/n\nUsing Average(x)\nCalculate the Median\nFind the Mode(s)"
+  },
+  {
+    "objectID": "lec3.html#practice",
+    "href": "lec3.html#practice",
+    "title": "Measures of Central Tendency",
+    "section": "Practice",
+    "text": "Practice\nDownload the class data to open it in Excel.\n\nLook at the HYPE rating for 1/30.\nCalculate the mean for 1/30.\nInterpret the mean for 1/30."
+  },
+  {
+    "objectID": "lec3.html#review-5",
+    "href": "lec3.html#review-5",
+    "title": "Measures of Central Tendency",
+    "section": "Review",
+    "text": "Review\nWhen do we use the…\n\nMean?\nMedian?\nMode?"
+  },
+  {
+    "objectID": "lec3.html#review-6",
+    "href": "lec3.html#review-6",
+    "title": "Measures of Central Tendency",
+    "section": "Review",
+    "text": "Review\nHow do we calculate the…\n\nMean?\nMedian?\nMode?"
+  },
+  {
+    "objectID": "lec3.html#review-7",
+    "href": "lec3.html#review-7",
+    "title": "Measures of Central Tendency",
+    "section": "Review",
+    "text": "Review\nWhat is this the formula for?\n• Explain this formula to me."
+  },
+  {
+    "objectID": "lec3.html#review-8",
+    "href": "lec3.html#review-8",
+    "title": "Measures of Central Tendency",
+    "section": "Review",
+    "text": "Review\nWhen are the mean, median, and mode the same (equal to one another)?"
+  },
+  {
+    "objectID": "lec6.html#review",
+    "href": "lec6.html#review",
+    "title": "Z-scores & Probability",
+    "section": "Review",
+    "text": "Review\n\n68.3% of the datapoints (the X’s) will fall within 1 SD of the mean.\n95.4% of the datapoints (the X’s) will fall within 2 SD of the mean.\n99.7% of the datapoints (the X’s) will fall within 3 SD of the mean.\n\nZ-scores are expressed in Standard Deviation units."
+  },
+  {
+    "objectID": "lec6.html#z-scores",
+    "href": "lec6.html#z-scores",
+    "title": "Z-scores & Probability",
+    "section": "Z-scores",
+    "text": "Z-scores\nZ-scores re-express the original data points (the X’s) in a way that intuitively lets us know:\n\nHow close the X is to the mean\nWhere it falls in the dispersion of the distribution\nhow much this participant is like the other person in the sample\nWhere it falls in the dispersion of the distribution\nhow different this participant is from the majority of people in the sample"
+  },
+  {
+    "objectID": "lec6.html#z-scores-1",
+    "href": "lec6.html#z-scores-1",
+    "title": "Z-scores & Probability",
+    "section": "Z-scores",
+    "text": "Z-scores\nZ-scores are expressed in Standard Deviation units.\n\nz = 1\nz = -2\nz = 0.5"
+  },
+  {
+    "objectID": "lec6.html#calculating-a-z-score",
+    "href": "lec6.html#calculating-a-z-score",
+    "title": "Z-scores & Probability",
+    "section": "Calculating A Z-score",
+    "text": "Calculating A Z-score\n\nMean-center the X values —&gt; X — X —&gt; Makes the Mean = 0.\nDividing by the standard deviation —&gt; Makes the SD = 1.\n\nHow do we calculate the probability of an outcome, using the normal distribution?\n\nUse a z-score:\nMean center the X values.\nDivide them by the SD."
+  },
+  {
+    "objectID": "lec6.html#how-do-we-calculate-the-probability-of-an-outcome-using-the-normal-distribution",
+    "href": "lec6.html#how-do-we-calculate-the-probability-of-an-outcome-using-the-normal-distribution",
+    "title": "Z-scores & Probability",
+    "section": "How do we calculate the probability of an outcome, using the normal distribution?",
+    "text": "How do we calculate the probability of an outcome, using the normal distribution?\n\nThe average grade on the exam was an 86 with a standard deviation of 4.\nWhat is the probability of scoring a 94 or higher on the exam?\n\n\\(z = \\frac{x-\\bar{x}}{s}\\)\n\\(z = \\frac{94-86}{4} = \\frac{8}{4}=2\\)\n\\(z = 2\\)\n\nZ = 2 corresponds with 2.1% and 0.1% of the curve 2.2% chance."
+  },
+  {
+    "objectID": "lec6.html#example-2",
+    "href": "lec6.html#example-2",
+    "title": "Z-scores & Probability",
+    "section": "Example 2",
+    "text": "Example 2\nThe mean exam score was 86 with a standard deviation of 4.\nWhat is the probability of scoring between an 82 and a 90?\n\\(z = \\frac{82-86}{4} = \\frac{-4}{4} = -1\\)\n\\(z = \\frac{90-86}{4} = \\frac{4}{4} = 1\\)\n\n68.3% chance of scoring between 82 and 90."
+  },
+  {
+    "objectID": "lec6.html#example-3",
+    "href": "lec6.html#example-3",
+    "title": "Z-scores & Probability",
+    "section": "Example 3",
+    "text": "Example 3\n\nEsmeralda’s stats professor tells her class that the average score on the exam was a 72 with a standard deviation of 6, and the distribution of scores was normal.\n\nEsmeralda wants to calculate the probability that she scored below 60\n\\(\\frac{60-72}{6} = \\frac{-12}{6} = -2\\)\n\n2.2% chance that she failed.\nWhat’s the chance she passed?"
+  },
+  {
+    "objectID": "lec6.html#z-scores-and-probability",
+    "href": "lec6.html#z-scores-and-probability",
+    "title": "Z-scores & Probability",
+    "section": "Z-scores and Probability",
+    "text": "Z-scores and Probability\nIn real life, we are often working with numbers with long decimal points rather than nice whole numbers.\n\nBecause the standard normal curve is STANDARD and NORMAL, we can calculate the exact probability of a z-score with a decimal point.\nCalculate the z-score.\nLocate the whole number and first decimal point along the left side of the table.\nLocate the second decimal point along the top of the table."
+  },
+  {
+    "objectID": "lec6.html#z-scores-and-probability-1",
+    "href": "lec6.html#z-scores-and-probability-1",
+    "title": "Z-scores & Probability",
+    "section": "Z-scores and Probability",
+    "text": "Z-scores and Probability\nThe Z-score Probability Table gives you the probability of that z-score or LESS.\n\n\nIf you need that z-score or higher, you have to subtract the decimal from 1."
+  },
+  {
+    "objectID": "lec6.html#z-scores-and-probability-2",
+    "href": "lec6.html#z-scores-and-probability-2",
+    "title": "Z-scores & Probability",
+    "section": "Z-scores and Probability:",
+    "text": "Z-scores and Probability:\nSome examples\n\nIn a recent study on world happiness, participants were asked to evaluate their current lives on a scale from 0 to 10, where 0 represents the worst possible life and 10 represents the best possible life. The responses were normally distributed, with a mean of 5.4 and a standard deviation of 2.2. Find the probability that a randomly selected study participant’s response was:\n\n\nLess than 4\nMore than 8"
+  },
+  {
+    "objectID": "lec6.html#z-scores-and-probability-3",
+    "href": "lec6.html#z-scores-and-probability-3",
+    "title": "Z-scores & Probability",
+    "section": "Z-scores and Probability:",
+    "text": "Z-scores and Probability:\nSome examples\n\nIn a recent study on world happiness, participants were asked to evaluate their current lives on a scale from 0 to 10, where 0 represents the worst possible life and 10 represents the best possible life. The responses were normally distributed, with a mean of 5.4 and a standard deviation of 2.2. Find the probability that a randomly selected study participant’s response was:\n\n\nLess than 4\nMore than 8\n\n\\(z = \\frac{x-\\bar{x}}{s}\\)\n\\(z = \\frac{4-5.4}{2.2} = \\frac{-1.4}{2.2} = -.63\\)"
+  },
+  {
+    "objectID": "lec6.html#z-scores-and-probability-4",
+    "href": "lec6.html#z-scores-and-probability-4",
+    "title": "Z-scores & Probability",
+    "section": "Z-scores and Probability",
+    "text": "Z-scores and Probability\nExample 1"
+  },
+  {
+    "objectID": "lec6.html#example-1-1",
+    "href": "lec6.html#example-1-1",
+    "title": "Z-scores & Probability",
+    "section": "Example 1",
+    "text": "Example 1\nStep by Step"
+  },
+  {
+    "objectID": "lec6.html#z-scores-and-probability-5",
+    "href": "lec6.html#z-scores-and-probability-5",
+    "title": "Z-scores & Probability",
+    "section": "Z-scores and Probability:",
+    "text": "Z-scores and Probability:\nExample 2\n\nThe scale of scores for an IQ test are approximately normal with mean 100 and standard deviation 15. The organization MENSA, which calls itself the “high IQ society”, requires a score of 130 or higher.\n\nWhat percent of adults would qualify for membership?\nExample 2\n\nThe scale of scores for an IQ test are approximately normal with mean 100 and standard deviation 15. The organization MENSA, which calls itself the “high IQ society”, requires a score of 130 or higher.\n\nWhat percent of adults would qualify for membership?\n\\(z = \\frac{x-\\bar{x}}{s}\\)\n\\(z = \\frac{130-100}{15}=\\frac{30}{15} = 2\\)"
+  },
+  {
+    "objectID": "lec6.html#example-2-3",
+    "href": "lec6.html#example-2-3",
+    "title": "Z-scores & Probability",
+    "section": "Example 2",
+    "text": "Example 2\nMENSA"
+  },
+  {
+    "objectID": "lecture.html",
+    "href": "lecture.html",
+    "title": "Lecture",
+    "section": "",
+    "text": "Research in psychology encompasses several fields and sub-fields, however, each area adheres to the same rigorous methodological constraints.\n\nLecture 1: Introduction to Research\n\n\nReading | Slides\n\nThis lecture explains the concept of operationalization, or how we selectively define certain attributes or concepts. We will also discuss the different scales of measurements; nominal, ordinal, interval, and ratio\n\nLecture 2: Operationalization | Scales of Measurement\n\nReading\n\n\nThis lecture introduces the concept of Central Tendency and some statistical tools we use to measure these such as Mean, Median, Mode, and Range.\n\nLecture 3: Measures of Central Tendency\n\nReading\n\n\nIn this lecture, we will discuss how ‘real’ data is often unwieldy and will vary–it is the magnitude of how much the data varies that determines our statistical decisions. We will be introduced to the statistical concepts of variance and standard deviation.\n\nLecture 4: Measures of Variability\n\nReading\n\n\n\nLecture 5: Normal Distributions & Z-scores\n\nReading\n\n\nThis lecture introduces the concept of standardization using z-scores and probability to determine the likelihood of some data decisions.\n\nLecture 6: Z-scores & Probability\n\nReading: Z-Scores | Reading: Probability\n\n\nThis lecture introduces SPSS, Excel, and R for statistical analysis and visualization.\n\nLecture 7: Introduction to Statistical Software\n\n\n\nThis lecture is reserved for review of Exam 1.\n\nLecture 8: Review for Exam 1\n\n\n\n\nLecture 9: Statistics in the Real World, Pt. 1\n\n\n\nThis lecture discusses the notion of sampling and how we draw portions from the unknown population to test hypotheses and make generalizations (when possible) about larger groups.\n\nLecture 10: Sampling Theory, Hypothesis Testing\n\nReading\n\n\nThe statistical concepts of Power and Effect Size will be discussed as well as seeing a crucial step in the research cycle, Meta-Analysis which analyzes the analyses of past papers.\n\nLecture 11: Power & Effect Size | Introduction to Meta-Analysis\n\nReading\n\n\nThis lecture discusses the how two or more variables change in accordance with the other as well as how we define the strength, and direction of a relationship between measured variables.\n\nLecture 12: Covariance & Correlation\n\nReading\n\n\nThis lecture discusses the statistical framework of Linear Regression which can be used to create predictive models and inferences about what might occur given a certain set of information or variables.\n\nLecture 13: Linear Regression\n\nReading\n\n\nThis lecture explains how more than one variable can contribute to the strength of a relationship as well as the predictive value. Other types of variables can also be used to predict states.\n\nLecture 14: Interactions & Categorical Variables in Linear Regression\n\nNeed Reading for this One!\n\n\n\nLecture 15: Statistics in the Real World, Pt 2\n\n\n\nThis lecture is reserved for a review of Exam 2\n\nLecture 16: Review for Exam 2\n\n\n\nThe independent samples t-test is used to test for differences between two samples that come from independent sources.\n\nLecture 17: Independent Samples t-Tests\n\nReading\n\n\nThe Between Subjects ANOVA is used when an Independent Variable has more than three levels and each level is composed of unique respondents.\n\nLecture 18: Between Subjects ANOVA\n\nReading\n\n\nWhen interpreting the results of an ANOVA, you can use comparisons to test how the effects differ between each of the 3+ conditions.\n\nLecture 19: Comparisons\n\n\n\nA Factorial ANOVA has 2 or more Independent Variables which leads you with possible Main Effects for each Independent Variable as well as an interaction effect between each independent Variable.\n\nLecture 20: Factorial ANOVA\n\nReading\n\n\nFactorial ANOVA’s have the possibility for an interaction where the effect of a manipulation is especially powerful in the presence of a certain level of a secondary independent variable or the effect depends on a certain level of a secondary independent variable.\n\nLecture 21: Interactions in ANOVA\n\nReading\n\n\nA Within-Subjects ANOVA uses the same participants in each level of an independent variable.\n\nLecture 22: Within Subjects ANOVA\n\nReading\n\n\nMixed Method ANOVA’s can have a variety of Between and Within Factors that contribute to the research design. Some respondents are exposed to one type of level within an independent variable, however, all participants are exposed to one or more conditions of a secondary independent variable.\n\nLecture 23: Mixed Methods ANOVA\n\nReading\n\n\nReliability and Validity are statistical concepts that establish criteria for independent and dependent variables as well as classifications for internal strength of a certain measure or test.\n\nLecture 24: Reliability & Validity\n\nReading\n\n\n\nLecture 25: Statistics in the Real World, Pt 3\n\n\n\nAPA formatting in the Results section of an academic paper will be discussed as well as the purpose and structure of the section.\n\nLecture 26: APA format & Results Section\n\nNeed something for this\n\n\nThis lecture will be reserved for review of Exam 3.\n\nLecture 27: Review for Exam 3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PSY348: Statistics for Psychology",
+    "section": "",
+    "text": "Prerequisites/Corequisites: PSY 101 and MTH 110\nMeeting Days and Times:\nLecture: M/W 9:25 AM – 10:40 AM\nLaboratory: Monday 10:50 AM - 11:40 AM\nMeeting Room: Whitman Hall B26\nInstructor: Dave Brocker, M.A.\nEmail: brockeda@farmingdale.edu |\n\nPhone: (934) 420 5678\nOffice: Knapp Hall 15"
+  },
+  {
+    "objectID": "index.html#catalog-course-description",
+    "href": "index.html#catalog-course-description",
+    "title": "PSY348: Statistics for Psychology",
+    "section": "Catalog Course Description:",
+    "text": "Catalog Course Description:\nThis course will introduce students to the basic descriptive and inferential statistics used in the behavioral and social sciences. Topics will include the organization of data, measures of central tendency and variability, correlation and regression, hypothesis testing, and various parametric and nonparametric tests of significance including t-tests and ANOVA. Students will focus on the interconnections between theory, statistical techniques, and research methods in order to identify the appropriate statistical tests to analyze data and reach objective conclusions regarding research questions in the social sciences. The course will provide practice in using statistical software for data summarization, presentation, and analysis."
+  },
+  {
+    "objectID": "index.html#course-learning-outcomes",
+    "href": "index.html#course-learning-outcomes",
+    "title": "PSY348: Statistics for Psychology",
+    "section": "Course Learning Outcomes:",
+    "text": "Course Learning Outcomes:\n\nAs a result of this course, students will be able to understand statistical terms and research reports in the social sciences, use statistical techniques to analyze experimental data for hypothesis testing, and use statistical software to aid in the presentation and analysis of quantitative data.\nTo accomplish these objectives, students will be able to:\n\nDescribe the four measurement scales (nominal, ordinal, interval, ratio).\nConstruct frequency distributions and represent them graphically.\nIdentify and calculate measures of central tendency including mean, median, and mode.\nDefine and calculate measures of variability including variance and standard deviation.\nCalculate and apply the use of z-scores.\nDescribe the normal curve and use the curve to solve various problems including probability.\nAppraise the difference between populations and samples.\nApply the concepts of sampling theory and sampling distributions to statistical testing.\nExplain and apply the basic concepts of hypothesis testing including the null, significance testing, and errors.\nCalculate and appraise correlation coefficients.\nObtain and graph regression equations and use results to make predictions.\nTest for significant differences between means using t-tests.\nCalculate and interpret analysis of variance and follow up comparisons.\nDetermine appropriate hypothesis test based on research questions and level of data.\nEvaluate how appropriate measures are by measuring reliability and validity.\nPerform statistical techniques by hand using formulas and with statistical software.\nInterpret the results of inferential statistical techniques."
+  },
+  {
+    "objectID": "index.html#general-course-requirements",
+    "href": "index.html#general-course-requirements",
+    "title": "PSY348: Statistics for Psychology",
+    "section": "General Course Requirements",
+    "text": "General Course Requirements\nCourse Materials [FREE!]\nWe will be using Answering Questions with Data by Dr. Matthew Crump for our Textbook\nCourse Format\nThis course has both lecture and laboratory components. During lecture on Monday and Wednesday, we will discuss statistical theory and prepare for the corresponding laboratory by examining computational formulas. We will also work through practice examples to prepare you for the recitation.\nOn Monday afternoons we will meet for recitation. I will guide you through the first half of the lab for that day, and students will be given the remainder of the recitation period to complete the second portion of the lab. Students will complete the labs using statistical software accessed on the computers in our classroom."
+  },
+  {
+    "objectID": "index.html#grading",
+    "href": "index.html#grading",
+    "title": "PSY348: Statistics for Psychology",
+    "section": "Grading:",
+    "text": "Grading:\nExams (36%) – 12 points each\nThere will be three non-cumulative exams. Each of the exams will contain two parts: conceptional and computational. The conceptual part of the exam will include 12 multiple choice questions pertaining to theory we covered in lecture. Each multiple choice question will be worth 0.5 points for a total of 6 points. The computational part of the exam will contain 2 to 3 questions with various parts, each worth a different point value. The computational portion will require you to apply the concepts we learned in lecture and the skills we learn in recitation.\nLabs (54%) – 4.5 points each\nIn recitation each week, students will complete a 5-point lab assignment that corresponds to the lectures given the week before. Each lab will contain two parts. We will complete the first part together as a class. Working along with the class to complete the first part is worth 1.5 points. The second part is to be completed by students on their own or in small groups and is worth the remaining 3 points.\nAttendance and Participation (10%)\nThis course requires attendance and active participation, as the material increases in difficulty over the course of the semester. Each student is allowed 2 absences without penalty, so long as missed work is made up in a timely manner. Students who are absence more than twice, should meet with me to discuss how they will keep up with the course material."
+  },
+  {
+    "objectID": "index.html#farmingdale-grading-system",
+    "href": "index.html#farmingdale-grading-system",
+    "title": "PSY348: Statistics for Psychology",
+    "section": "Farmingdale Grading System",
+    "text": "Farmingdale Grading System\nYour final grade will be based on the following grading scale provided by the college. PLEASE NOTE: To be fair to everyone, these are exact cutoffs. Under no circumstances can I round up the grade of any student. ALSO NOTE: Your grade in Brightspace may not accurately reflect your grade in this course, as some grade-related material will not be updated there, such as participation. For an estimation of your grade at any point during the semester, please email me. I’d be happy to tell you your current estimated grade.\n\n\n\n\n\n\n\n\n\nMinimum Grade Percentage Equivalent\nLetter Grade\nGPA Equivlalent\nInterpretation\n\n\n\n\n93.0\nA\n4.00\nExcellent\n\n\n90.0\nA-\n3.67\n\n\n\n87.0\nB+\n3.33\n\n\n\n83.0\nB\n3.00\nGood\n\n\n80.0\nB-\n2.67\n\n\n\n77.0\nC+\n2.33\n\n\n\n73.0\nC\n2.00\nSatisfactory\n\n\n70.0\nC-\n1.67\n\n\n\n67.0\nD+\n1.33\n\n\n\n60.0\nD\n1.00\nMinimum Passing\n\n\n\nWeek by week class outline:\nNOTE: I may modify the syllabus. If I do, I will post the newest version on Brightspace.\n\n\n\n\n\n\n\n\n\n\nDate\nTopic\nReading\nLearning Objective\nLab\n\n\n\n\nMon 8/26\nSyllabus\nIntroduction to Research\nCh. 1\n\nUnderstand the course requirements.\nAppraise the difference between populations and samples.\n\nLab 1: Research design\n\n\nWed 8/28\nOperationalization\nScales of Measurement\nCh. 1\n\nDescribe the four measurement scales (nominal, ordinal, interval, ratio).\n\n\n\n\nMon 9/2\n\n\nNo Class\nGovernance Meeting\n\n\n\nWed 9/4\nMeasures of Central Tendency\nCh. 2\n\nIdentify and calculate measures of central tendency including mean, median, and mode.\n\n\n\n\nMon 9/9\nMeasures of Variability\nCh. 2\n\nDefine and calculate measures of variability including variance and standard deviation.\nPerform statistical techniques by hand using formulas and with statistical software.\n\nLab 2: Operationa lization\n\n\nWed 9/11\nNormal Di stributions & Z-scores\nCh. 4\n\nDescribe the normal curve and use the curve to solve various problems including probability.\nCalculate and apply the use of z-scores.\n\n\n\n\nMon 9/16\nZ-scores & Probability\nCh. 4\n\nCalculate and apply the use of z-scores.\n\nLab 3: Standard Deviations & Z-scores\n\n\nWed 9/18\nI ntroduction to Statistical Software\n\n\nIdentify and calculate measures of central tendency including mean, median, and mode.\nDefine and calculate measures of variability including variance and standard deviation.\nConstruct frequency distributions and represent them graphically.\nPerform statistical techniques by hand using formulas and with statistical software.\n\n\n\n\nMon 9/23\nReview for Exam 1\n\n\nReview concepts examined\n\nLab 4: Descriptive Statistics\n\n\nWed 9/25\nStatistics in the Real World, Pt 1\nMcAndrew & Koehnke (2017)\n\nDetermine appropriate hypothesis test based on research questions and level of data.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon 9/30\nSampling Theory\nHypothesis Testing\nCh. 4\n\nAppraise the difference between populations and samples.\nApply the concepts of sampling theory and sampling distributions to statistical testing.\nExplain and apply the basic concepts of hypothesis testing including the null, significance testing, and errors.\nDescribe the normal curve and use the curve to solve various problems including probability.\n\nExam 1\n\n\nWed 10/2\nPower & Effect Size\nIntroduction to Me ta-Analysis\nCh. 12\n\nExplain and apply the basic concepts of hypothesis testing including the null, significance testing, and errors.\nDetermine appropriate hypothesis test based on research questions and level of data.\nDescribe the normal curve and use the curve to solve various problems including probability.\n\n\n\n\nMon 10/7\nCovariance & Correlation\nCh. 3\n\nCalculate and appraise correlation coefficients.\nPerform statistical techniques by hand using formulas and with statistical software.\n\nLab 5: Hypothesis Testing\n\n\nWed 10/9\nLinear Regression\nCh. 3\n\nObtain and graph regression equations and use results to make predictions.\nPerform statistical techniques by hand using formulas and with statistical software.\n\n\n\n\nMon 10/14\nInteractions & Categorical Variables in Linear Regression\n\n\nObtain and graph regression equations and use results to make predictions.\nPerform statistical techniques by hand using formulas and with statistical software.\n\nLab 6: Cor relation\n\n\nWed 10/16\nStatistics in the Real World, Pt 2\nScrivner(2021)\n\nDetermine appropriate hypothesis test based on research questions and level of data.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon 10/21\nReview for Exam 2\n\n\nReview concepts examined\n\nLab 7: Linear Regression\n\n\nWed 10/23\nIndependent Samples t-Tests\nCh. 6\n\nTest for significant differences between means using t-tests.\n\nExam 2\n\n\nMon 10/28\nBetween Subjects ANOVA\nCh. 7\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\nLab 8: ANOVA\n\n\nWed 10/30\nComparisons\nCh. 7\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon\n11/4\nFactorial ANOVA\nCh. 9\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\nLab 9: Follow up Comparisons in ANOVA\n\n\nWed 11/6\nInteractions in ANOVA\nCh. 9\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\nConstruct frequency distributions and represent them graphically.\n\n\n\n\nMon 11/11\nWithin Subjects ANOVA\nCh. 8\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\nLab 10: Within-subjects ANOVA\n\n\nWed 11/13\nMixed Methods ANOVA\nCh. 10\n\nCalculate and interpret analysis of variance and follow up comparisons.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon 11/18\nReliability & Validity\nCh. 1.9\n\nEvaluate how appropriate measures are by measuring reliability and validity.\n\nLab 11:\nReliability & Validity\n\n\nWed 11/20\nStatistics in the Real World, Pt 3\nHsee, & Ruan, (2016)\n\nDetermine appropriate hypothesis test based on research questions and level of data.\nInterpret the results of inferential statistical techniques.\n\n\n\n\nMon 11/25\nAPA format & Results Section\n\n\nDetermine appropriate hypothesis test based on research questions and level of data.\nInterpret the results of inferential statistical techniques.\nPerform statistical techniques by hand using formulas and with statistical software.\n\nLab 12:\nResults Section\n\n\nWed 11/27\nNo Class - Thanksgiving\n\n\n\n\n\nMon 11/30\nReview for Exam 3\n\n\nReview concepts examined\n\n\n\n\nWed 12/2\nExam 3\n\n\n\n\n\nMon 12/4\n\n\n\n\n\n\n\nCancellation of Classes:\nWeather and other campus-wide cancellations will be listed on the home page, Facebook and Twitter and you can also sign up for RAVE and SUNY Alert. Go to GETRAVE and use your Farmingdale user ID and password to enter the site. For SUNY-Alert, please visit the University Police web page at University Police. If I need to cancel class for any other reason, I will post an announcement on Brightspace and email students a copy of the announcement.\nElectronic Devices Policy:\nTechnology use in the classroom is intended to enhance the learning environment for all students. Accordingly, use of laptops, notebook computers, and tablets is allowed in and during class so long as they are being used to take notes and they are put in silent mode so that notifications do not sound during class.\nCellphones should be put in silent mode and kept out of sight, unless there are extenuating circumstances (for example, you have a child who is being cared by someone while you are in class and you must be reachable). If you feel you need to have your cell phone out during class time for a legitimate reason, please email me.\nClassroom Recording:\nThe recording of classroom instruction is for the sole purpose of supporting the course learning objectives and can only be accessible to FSC faculty, staff, and students. Capturing, copying, and or sharing of recordings is strictly prohibited. Students not adhering to campus policies would be in violation of the student code of conduct.\nAttendance Policy:\nThis course requires attendance and active participation, as the material increases in difficulty over the course of the semester. Each student is allowed 2 absences without penalty, so long as missed work is made up in a timely manner. Students who are absence more than twice, should meet with me to discuss how they will keep up with the course material.\nReligious Absences:\nIf you are unable to attend class on certain days due to religious beliefs, please consult with your instructor well in advance of the absence so that appropriate accommodation can be made. Reasonable accommodation in course work may be unavailable if a request results in a significant number of absences or substantially impacts class participation. Please note a significant number of absences is viewed as greater than 5% of class time.\nUse of Email:\nIt is College policy that instructors and students use the Farmingdale email system or the Brightspace email system to contact one another.\nCopyright Statement:\nCourse material accessed from Brightspace or the Farmingdale website is for the exclusive use of students who are currently enrolled in the course. Content from these systems cannot be reused or distributed without written permission of the instructor and/or the copyright holder. Duplication of materials protected by copyright, without permission of the copyright holder, is a violation of the Federal copyright law, as well as a violation of SUNY copyright policy.\nDisability Services Center:\nIf you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and the Disability Services Center, Sinclair Hall, Room 185, or call 934-420-2411, or 934-420–2607 as soon as possible this semester.\nCampus Mental Health Services\nOccasionally, students may experience problems related to excessive stress, anxiety, depression, and other mental health issues. All registered students at Farmingdale State College have access to Campus Mental Health Services, located in Sinclair Hall. There is no fee for services.\nCMHS provides both short and long-term treatment for anxiety, mood disorders, acute and chronic stress disorders, and other emotional or behavioral problems that may adversely impact students’ functioning. Additionally, CMHS is available 24/7 for students who may be in crisis. You are encouraged to contact CMHS at (934) 420-2006 or cmhs@farmingdale.edu if you are having difficulties in the above areas. We are also available for consultation to help you determine whether or not services may be helpful.\nAcademic Integrity Policy\nBecause intellectual honesty is a cornerstone of all academic and scholarly work, each member of the Farmingdale State College campus community is expected to maintain academic integrity. Farmingdale State College has developed regulations concerning academic dishonesty and integrity to protect all students and to maintain an ethical academic environment. For more information, click the updated link below: Policies\nIt is important for you to understand the concept of plagiarism. Plagiarism is intentionally representing the words,images or ideas of another as one’s own in any academic exercise. This includes words, images or ideas in either print or electronic format.\nStudents who plagiarize will automatically fail the plagiarized assignment. This includes use of AI to complete writing assignments. All previously submitted assignments will then be re-assessed for plagiarism, and if plagiarism is found in any prior assignments, the grades of those assignments will also be changed to an F. I will also report any student who plagiarizes to the Dean of Students.\nDiversity Equity & Inclusion:\nFarmingdale State College embraces the belief that our intellectual community is enriched and enhanced by the opportunity to learn from and appreciate diversity. We strive to have a curriculum and learning environment which respects, honors and incorporates the contributions of a diverse and inclusive teaching and learning community. Your person (identity) and voice are welcomed in this classroom environment because of your value as a member of FSC’s inclusive and diverse culture. All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class.\nStudent Code of Conduct\nThe President of the College and the Vice President for Student Affairs recognize the rights of designees including University Police, to enforce all regulations, policies, license agreements, laws and codes on campus. If any individual allegedly violates the laws, Student Code of Conduct or campus policies, a President’s designee will institute proceedings against the offender (s). For more information on the student code of conduct, see the Code of Conduct section in the current Student Handbook which can be found at this link, Student Handbook\nBasic Needs Insecurity:\nYour well-being is crucial to your academic success at Farmingdale State College.  If you are dealing with basic needs insecurity, please communicate with the Office of the Dean of Students at (934)420-2104. We are here to ensure that your well-being is prioritized. Resources are available to support you if you face challenges such as unstable housing, insufficient food, financial difficulties or other personal hardships.\nFood Security\n\nCampus food Pantry –The Food Pantry provides free groceries to students in need. More information and hours of operation are available at Food Pantry\nSupplemental Nutrition Assistance Program (SNAP): Many students are eligible for SNAP benefits, which provides funds for purchasing food.  For more information and assistance with applying, please contact Jamie Hawkins, Health & Wellness Center, hawkinjk@farmingdale.edu, or call 934-420-2690. You can apply online at Supplemental Nutritional Assistance Program (SNAP).  Health and Welfare Counsel of Long Island is available to help you complete the application.\n\nHousing Assistance\n\nHomeless Liaison: Jamie Hawkins, your Campus Homeless Liaison, offers confidential support to students experience housing instability.  They will connect you with campus and community resources.   \nEmergency Housing: If you are experiencing housing instability or homelessness, the Residence Life Office (RLO) can assist with temporary housing solutions.  Contact them at (934)420-2010.\nAffordable Housing Resources: For long-term housing support, the RLO can connect you with affordable housing options in the community.  Visit the RLO webpage for more details. \n\nFinancial Assistance\n\nEmergency Grants: Your campus offers emergency financial grants to assist students faculty unexpected financial hardships.  To apply, visit https://www.farmingdale.edu/scholarships/\nFinancial Aid: Ensure that you have applied for all available financial aid, including scholarships, grants, and loans.  Visit the Financial Aid Office or contact them (934)420-2578 for personalized assistance\n\nAdditional Support Services\nHealth and Wellness Center: For health-related concerns, visit the Health and Wellness Center\nAcademic Support: For academic assistance, contact Center for Academic Success & Tutoring\nUniversity Police\n934-420-2111"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#psychology-department",
+    "href": "index.html#psychology-department",
+    "title": "PSY348: Statistics for Psychology",
+    "section": "",
+    "text": "Prerequisites/Corequisites: PSY 101 and MTH 110\nMeeting Days and Times:\nLecture: M/W 9:25 AM – 10:40 AM\nLaboratory: Monday 10:50 AM - 11:40 AM\nMeeting Room: Whitman Hall B26\nInstructor: Dave Brocker, M.A.\nEmail: brockeda@farmingdale.edu |\n\nPhone: (934) 420 5678\nOffice: Knapp Hall 15"
+  }
+]

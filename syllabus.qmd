@@ -1,0 +1,313 @@
+---
+title: Syllabus
+format: html
+---
+
+# Psychology Department
+
+### PSY 348 - Statistics for Psychology \| PSY 348 \| 4 Credits
+
+**Prerequisites/Corequisites**: PSY 101 and MTH 110
+
+**Meeting Days and Times:**
+
+**Lecture**: M/W 9:25 AM -- 10:40 AM
+
+**Laboratory**: Monday 10:50 AM - 11:40 AM
+
+**Meeting Room**: Whitman Hall B26
+
+**Instructor:** Dave Brocker, M.A.
+
+Email: [brockeda\@farmingdale.edu](mailto:brockeda@farmingdale.edu){.email}
+
+Phone: (934) 420 5678
+
+Office: Knapp Hall 15
+
+## Catalog Course Description:
+
+This course will introduce students to the basic descriptive and inferential statistics used in the behavioral and social sciences. Topics will include the organization of data, measures of central tendency and variability, correlation and regression, hypothesis testing, and various parametric and nonparametric tests of significance including t-tests and ANOVA. Students will focus on the interconnections between theory, statistical techniques, and research methods in order to identify the appropriate statistical tests to analyze data and reach objective conclusions regarding research questions in the social sciences. The course will provide practice in using statistical software for data summarization, presentation, and analysis.
+
+## Course Learning Outcomes:
+
+-   As a result of this course, students will be able to understand statistical terms and research reports in the social sciences, use statistical techniques to analyze experimental data for hypothesis testing, and use statistical software to aid in the presentation and analysis of quantitative data.
+
+-   To accomplish these objectives, students will be able to:
+
+    -   Describe the four measurement scales (nominal, ordinal, interval, ratio).
+
+    -   Construct frequency distributions and represent them graphically.
+
+    -   Identify and calculate measures of central tendency including mean, median, and mode.
+
+    -   Define and calculate measures of variability including variance and standard deviation.
+
+    -   Calculate and apply the use of z-scores.
+
+    -   Describe the normal curve and use the curve to solve various problems including probability.
+
+    -   Appraise the difference between populations and samples.
+
+    -   Apply the concepts of sampling theory and sampling distributions to statistical testing.
+
+    -   Explain and apply the basic concepts of hypothesis testing including the null, significance testing, and errors.
+
+    -   Calculate and appraise correlation coefficients.
+
+    -   Obtain and graph regression equations and use results to make predictions.
+
+    -   Test for significant differences between means using t-tests.
+
+    -   Calculate and interpret analysis of variance and follow up comparisons.
+
+    -   Determine appropriate hypothesis test based on research questions and level of data.
+
+    -   Evaluate how appropriate measures are by measuring reliability and validity.
+
+    -   Perform statistical techniques by hand using formulas and with statistical software.
+
+    -   Interpret the results of inferential statistical techniques.
+
+## **General Course Requirements**
+
+*Course Materials*
+
+There is no required text for this course.
+
+Selected readings will be made available on Brightspace.
+
+*Course Format*
+
+This course has both lecture and laboratory components. During lecture on Monday and Wednesday, we will discuss statistical theory and prepare for the corresponding laboratory by examining computational formulas. We will also work through practice examples to prepare you for the recitation.
+
+On Monday afternoons we will meet for recitation. I will guide you through the first half of the lab for that day, and students will be given the remainder of the recitation period to complete the second portion of the lab. Students will complete the labs using statistical software accessed on the computers in our classroom.
+
+## **Grading:**
+
+*Exams (36%) -- 12 points each*
+
+There will be three non-cumulative exams. Each of the exams will contain two parts: conceptional and computational. The conceptual part of the exam will include 12 multiple choice questions pertaining to theory we covered in lecture. Each multiple choice question will be worth 0.5 points for a total of 6 points. The computational part of the exam will contain 2 to 3 questions with various parts, each worth a different point value. The computational portion will require you to apply the concepts we learned in lecture and the skills we learn in recitation.
+
+*Labs (54%) -- 4.5 points each*
+
+In recitation each week, students will complete a 5-point lab assignment that corresponds to the lectures given the week before. Each lab will contain two parts. We will complete the first part together as a class. Working along with the class to complete the first part is worth 1.5 points. The second part is to be completed by students on their own or in small groups and is worth the remaining 3 points.
+
+*Attendance and Participation (10%)*
+
+This course requires attendance and active participation, as the material increases in difficulty over the course of the semester. Each student is allowed 2 absences without penalty, so long as missed work is made up in a timely manner. Students who are absence more than twice, should meet with me to discuss how they will keep up with the course material.
+
+## Farmingdale Grading System
+
+Your final grade will be based on the following grading scale provided by the college. [PLEASE NOTE]{.underline}: To be fair to everyone, these are exact cutoffs. Under no circumstances can I round up the grade of any student. [ALSO NOTE]{.underline}: Your grade in Brightspace may not accurately reflect your grade in this course, as some grade-related material will not be updated there, such as participation. For an estimation of your grade at any point during the semester, please email me. I'd be happy to tell you your current estimated grade.
+
++-----------------------------------------+------------------+---------------------+--------------------+
+| **Minimum Grade Percentage Equivalent** | **Letter Grade** | **GPA Equivlalent** | **Interpretation** |
++:========================================+:=================+:====================+:===================+
+| 93.0                                    | A                | 4.00                | Excellent          |
++-----------------------------------------+------------------+---------------------+--------------------+
+| 90.0                                    | A-               | 3.67                |                    |
++-----------------------------------------+------------------+---------------------+--------------------+
+| 87.0                                    | B+               | 3.33                |                    |
++-----------------------------------------+------------------+---------------------+--------------------+
+| 83.0                                    | B                | 3.00                | Good               |
++-----------------------------------------+------------------+---------------------+--------------------+
+| 80.0                                    | B-               | 2.67                |                    |
++-----------------------------------------+------------------+---------------------+--------------------+
+| 77.0                                    | C+               | 2.33                |                    |
++-----------------------------------------+------------------+---------------------+--------------------+
+| 73.0                                    | C                | 2.00                | Satisfactory       |
++-----------------------------------------+------------------+---------------------+--------------------+
+| 70.0                                    | C-               | 1.67                |                    |
++-----------------------------------------+------------------+---------------------+--------------------+
+| 67.0                                    | D+               | 1.33                |                    |
++-----------------------------------------+------------------+---------------------+--------------------+
+| 60.0                                    | D                | 1.00                | Minimum Passing    |
++-----------------------------------------+------------------+---------------------+--------------------+
+
+**Week by week class outline:**
+
+[NOTE]{.underline}: I may modify the syllabus. If I do, I will post the newest version on Brightspace.
+
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Date**      | **Topic**                                                 | **Reading**                             | **Learning Objective**                                                                                               | **Lab**                                   |
++===============+===========================================================+=========================================+======================================================================================================================+===========================================+
+| **Mon 8/26**  | Syllabus                                                  |                                         | -   Understand the course requirements.                                                                              | **Lab 1: Research design**                |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               | Introduction to Research                                  |                                         | -   Appraise the difference between populations and samples.                                                         |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 8/28**  | Operationalization                                        | Cohen, 2013                             | -   Describe the four measurement scales (nominal, ordinal, interval, ratio).                                        |                                           |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               | Scales of Measurement                                     | Ch. 1                                   |                                                                                                                      |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon 9/2**   |                                                           |                                         | **No Class**                                                                                                         |                                           |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           |                                         | **Governance Meeting**                                                                                               |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 9/4**   | Measures of Central Tendency                              | Kenny, 1987                             | -   Identify and calculate measures of central tendency including mean, median, and mode.                            |                                           |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           | Ch. 3                                   |                                                                                                                      |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon 9/9**   | Measures of Variability                                   | Cohen, 2013                             | -   Define and calculate measures of variability including variance and standard deviation.                          | **Lab 2: Operationa lization**            |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           | Ch. 3                                   | -   Perform statistical techniques by hand using formulas and with statistical software.                             |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 9/11**  | Normal Di stributions & Z-scores                          | Kenny, 1987,                            | -   Describe the normal curve and use the curve to solve various problems including probability.                     |                                           |
+|               |                                                           |                                         | -   Calculate and apply the use of z-scores.                                                                         |                                           |
+|               |                                                           | Ch. 10                                  |                                                                                                                      |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon 9/16**  | Z-scores & Probability                                    | Cohen, 2013                             | -   Calculate and apply the use of z-scores.                                                                         | **Lab 3: Standard Deviations & Z-scores** |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           | Ch. 4                                   |                                                                                                                      |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 9/18**  | I ntroduction to SPSS                                     |                                         | -   Identify and calculate measures of central tendency including mean, median, and mode.                            |                                           |
+|               |                                                           |                                         | -   Define and calculate measures of variability including variance and standard deviation.                          |                                           |
+|               |                                                           |                                         | -   Construct frequency distributions and represent them graphically.                                                |                                           |
+|               |                                                           |                                         | -   Perform statistical techniques by hand using formulas and with statistical software.                             |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon 9/23**  | Review for Exam 1                                         | Review notes from readings and lectures | -   Review concepts examined                                                                                         | **Lab 4: Descriptive Statistics**         |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 9/25**  | Statistics in the Real World, Pt 1                        | Lytle, Apriceno, & Kowal, 2020          | -   Determine appropriate hypothesis test based on research questions and level of data.                             |                                           |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           |                                         | -   Interpret the results of inferential statistical techniques.                                                     |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon 9/30**  | Sampling Theory                                           | Stagnor, 2020                           | -   Appraise the difference between populations and samples.                                                         | **Exam 1**                                |
+|               |                                                           |                                         | -   Apply the concepts of sampling theory and sampling distributions to statistical testing.                         |                                           |
+|               | Hypothesis Testing                                        | Ch. 8                                   | -   Explain and apply the basic concepts of hypothesis testing including the null, significance testing, and errors. |                                           |
+|               |                                                           |                                         | -   Describe the normal curve and use the curve to solve various problems including probability.                     |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 10/2**  | Power & Effect Size                                       | Cohen, 2013                             | -   Explain and apply the basic concepts of hypothesis testing including the null, significance testing, and errors. |                                           |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               | Introduction to Me ta-Analysis                            | Ch. 8                                   | -   Determine appropriate hypothesis test based on research questions and level of data.                             |                                           |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           |                                         | -   Describe the normal curve and use the curve to solve various problems including probability.                     |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon 10/7**  | Covariance & Correlation                                  | Cohen, 2013                             | -   Calculate and appraise correlation coefficients.                                                                 | **Lab 5: Hypothesis Testing**             |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           | Ch. 9                                   | -   Perform statistical techniques by hand using formulas and with statistical software.                             |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 10/9**  | Linear Regression                                         | Cohen, 2013                             | -   Obtain and graph regression equations and use results to make predictions.                                       |                                           |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           | Ch. 10                                  | -   Perform statistical techniques by hand using formulas and with statistical software.                             |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon 10/14** | Interactions & Categorical Variables in Linear Regression | Cohen, 2013                             | -   Obtain and graph regression equations and use results to make predictions.                                       | **Lab 6: Cor relation**                   |
+|               |                                                           |                                         | -   Perform statistical techniques by hand using formulas and with statistical software.                             |                                           |
+|               |                                                           | Ch. 10                                  |                                                                                                                      |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 10/16** | Statistics in the Real World, Pt 2                        | Lytle & Ap riceno, 2022                 | -   Determine appropriate hypothesis test based on research questions and level of data.                             |                                           |
+|               |                                                           |                                         | -   Interpret the results of inferential statistical techniques.                                                     |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon 10/21** | Review for Exam 2                                         | Review notes from readings and lectures | -   Review concepts examined                                                                                         | **Lab 7: Linear Regression**              |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 10/23** | Independent Samples t-Tests                               | Cohen, 2013                             | -   Test for significant differences between means using t-tests.                                                    | Exam 2                                    |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           | Ch. 7                                   |                                                                                                                      |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon 10/28** | Between Subjects ANOVA                                    | Kenny, 1987                             | -   Calculate and interpret analysis of variance and follow up comparisons.                                          | **Lab 8: ANOVA**                          |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           | Ch. 14                                  | -   Interpret the results of inferential statistical techniques.                                                     |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 10/30** | Comparisons                                               | Cohen, 2013                             | -   Calculate and interpret analysis of variance and follow up comparisons.                                          |                                           |
+|               |                                                           |                                         | -   Interpret the results of inferential statistical techniques.                                                     |                                           |
+|               |                                                           | Ch. 13                                  |                                                                                                                      |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon**       | Factorial ANOVA                                           | Kenny, 1987                             | -   Calculate and interpret analysis of variance and follow up comparisons.                                          | **Lab 9: Follow up Comparisons in ANOVA** |
+|               |                                                           |                                         | -   Interpret the results of inferential statistical techniques.                                                     |                                           |
+| **11/4**      |                                                           | Ch. 15                                  |                                                                                                                      |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 11/6**  | Interactions in ANOVA                                     |                                         | -   Calculate and interpret analysis of variance and follow up comparisons.                                          |                                           |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           |                                         | -   Interpret the results of inferential statistical techniques.                                                     |                                           |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           |                                         | -   Construct frequency distributions and represent them graphically.                                                |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon 11/11** | Within Subjects ANOVA                                     | Cohen, 2013                             | -   Calculate and interpret analysis of variance and follow up comparisons.                                          | **Lab 10: Within-subjects ANOVA**         |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           | Ch. 15                                  | -   Interpret the results of inferential statistical techniques.                                                     |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 11/13** | Mixed Methods ANOVA                                       |                                         | -   Calculate and interpret analysis of variance and follow up comparisons.                                          |                                           |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           |                                         | -   Interpret the results of inferential statistical techniques.                                                     |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon 11/18** | Reliability & Validity                                    | Stagnor, 2020                           | > Evaluate how appropriate measures are by measuring reliability and validity.                                       | **Lab 11:**                               |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           | Ch. 5                                   |                                                                                                                      | **Reliability & Validity**                |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 11/20** | Statistics in the Real World, Pt 3                        | Ap riceno, Levy, & London, 2018         | -   Determine appropriate hypothesis test based on research questions and level of data.                             |                                           |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           |                                         | -   Interpret the results of inferential statistical techniques.                                                     |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon 11/25** | APA format & Results Section                              | Stagnor, 2020 Appendix A                | -   Determine appropriate hypothesis test based on research questions and level of data.                             | **Lab 12:**                               |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           |                                         | -   Interpret the results of inferential statistical techniques.                                                     | **Results Section**                       |
+|               |                                                           |                                         |                                                                                                                      |                                           |
+|               |                                                           |                                         | -   Perform statistical techniques by hand using formulas and with statistical software.                             |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 11/27** | **No Class - Thanksgiving**                               |                                         |                                                                                                                      |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon 11/30** | Review for Exam 3                                         | Review notes from readings and lectures | -   Review concepts examined                                                                                         |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Wed 12/2**  | **Exam 3**                                                |                                         |                                                                                                                      |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+| **Mon 12/4**  |                                                           |                                         |                                                                                                                      |                                           |
++---------------+-----------------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+
+**Cancellation of Classes:**
+
+Weather and other campus-wide cancellations will be listed on the home page, Facebook and Twitter and you can also sign up for RAVE and SUNY Alert. Go to [GETRAVE](http://www.getrave.com) and use your Farmingdale user ID and password to enter the site. For SUNY-Alert, please visit the University Police web page at [University Police](http://www.farmingdale.edu/university-police/). If I need to cancel class for any other reason, I will post an announcement on Brightspace and email students a copy of the announcement.
+
+**Electronic Devices Policy:**
+
+Technology use in the classroom is intended to enhance the learning environment for all students. Accordingly, use of laptops, notebook computers, and tablets is allowed in and during class so long as they are being used to take notes and they are put in silent mode so that notifications do not sound during class.
+
+Cellphones should be put in silent mode and kept out of sight, unless there are extenuating circumstances (for example, you have a child who is being cared by someone while you are in class and you must be reachable). If you feel you need to have your cell phone out during class time for a legitimate reason, please email me.
+
+**Classroom Recording:**
+
+The recording of classroom instruction is for the sole purpose of supporting the course learning objectives and can only be accessible to FSC faculty, staff, and students. Capturing, copying, and or sharing of recordings is strictly prohibited. Students not adhering to campus policies would be in violation of the student code of conduct.
+
+**Attendance Policy:**
+
+This course requires attendance and active participation, as the material increases in difficulty over the course of the semester. Each student is allowed 2 absences without penalty, so long as missed work is made up in a timely manner. Students who are absence more than twice, should meet with me to discuss how they will keep up with the course material.
+
+**Religious Absences:**
+
+If you are unable to attend class on certain days due to religious beliefs, please consult with your instructor well in advance of the absence so that appropriate accommodation can be made. Reasonable accommodation in course work may be unavailable if a request results in a significant number of absences or substantially impacts class participation. Please note a significant number of absences is viewed as greater than 5% of class time.
+
+**Use of Email:**
+
+It is College policy that instructors and students use the Farmingdale email system or the Brightspace email system to contact one another.
+
+**Copyright Statement:**
+
+Course material accessed from Brightspace or the Farmingdale website is for the exclusive use of students who are currently enrolled in the course. Content from these systems cannot be reused or distributed without written permission of the instructor and/or the copyright holder. Duplication of materials protected by copyright, without permission of the copyright holder, is a violation of the Federal copyright law, as well as a violation of SUNY copyright policy.
+
+**Disability Services Center:**
+
+If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and the Disability Services Center, Sinclair Hall, Room 185, or call 934-420-2411, or 934-420–2607 as soon as possible this semester.
+
+**Campus Mental Health Services**
+
+Occasionally, students may experience problems related to excessive stress, anxiety, depression, and other mental health issues. All registered students at Farmingdale State College have access to Campus Mental Health Services, located in Sinclair Hall. There is no fee for services.
+
+CMHS provides both short and long-term treatment for anxiety, mood disorders, acute and chronic stress disorders, and other emotional or behavioral problems that may adversely impact students’ functioning. Additionally, CMHS is available 24/7 for students who may be in crisis. You are encouraged to contact CMHS at (934) 420-2006 or cmhs\@farmingdale.edu if you are having difficulties in the above areas. We are also available for consultation to help you determine whether or not services may be helpful.
+
+**Academic Integrity Policy**
+
+Because intellectual honesty is a cornerstone of all academic and scholarly work, each member of the Farmingdale State College campus community is expected to maintain academic integrity. Farmingdale State College has developed regulations concerning academic dishonesty and integrity to protect all students and to maintain an ethical academic environment. For more information, click the updated link below: [Policies](https://www.farmingdale.edu/policies/?pid=214095)
+
+It is important for you to understand the concept of plagiarism. Plagiarism is intentionally representing the words,images or ideas of another as one’s own in any academic exercise. This includes words, images or ideas in either print or electronic format.
+
+Students who plagiarize will automatically fail the plagiarized assignment. This includes use of AI to complete writing assignments. All previously submitted assignments will then be re-assessed for plagiarism, and if plagiarism is found in any prior assignments, the grades of those assignments will also be changed to an F. I will also report any student who plagiarizes to the Dean of Students.
+
+**Diversity Equity & Inclusion:**
+
+Farmingdale State College embraces the belief that our intellectual community is enriched and enhanced by the opportunity to learn from and appreciate diversity. We strive to have a curriculum and learning environment which respects, honors and incorporates the contributions of a diverse and inclusive teaching and learning community. Your person (identity) and voice are welcomed in this classroom environment because of your value as a member of FSC’s inclusive and diverse culture. All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class.
+
+**Student Code of Conduct**
+
+The President of the College and the Vice President for Student Affairs recognize the rights of designees including University Police, to enforce all regulations, policies, license agreements, laws and codes on campus. If any individual allegedly violates the laws, Student Code of Conduct or campus policies, a President’s designee will institute proceedings against the offender (s). For more information on the student code of conduct, see the Code of Conduct section in the current Student Handbook which can be found at this link, [Student Handbook](https://www.farmingdale.edu/dean/policies.shtml)
+
+**University Police**
+
+934-420-2111
